@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[音楽] lucky chance"
+title: "[音楽] lucky chanceをもう一度"
 date: 2022-02-20 11:20:23 +0900
 category: j-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/lucky_chance.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/lucky_chanceをもう一度.json"></video>
 </div>
 
 ```
