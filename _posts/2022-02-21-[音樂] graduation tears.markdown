@@ -11,7 +11,7 @@ category: etc
 
 ```
 And now is the time to say good bye to the books
-And the people who have guided me a long
+And the people who have guided me along
 They showed me the way to joy and happiness, my friends,
 How can I forget the fun we had before
 
