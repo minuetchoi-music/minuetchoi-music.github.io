@@ -21,9 +21,9 @@ Don't care about a thing
 Gotta thank our teachers and my friends
 
 Graduation tears congratulation cheers.
-It's the day of my emotion, can't you see
+It's the day of my emotion, can you see
 Who'd know the friendship and love I'll leave behind.
-As I step out of the school yard I have known
+As I step out of the schoolyard I have known
 
 I don't know how I would go on without you in a wicked world
 I'll be all alone I've been blessed by school life
