@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[音楽] 全曲"
-date: 2022-03-21 20:40:23 +0900
-category: j-pop
+date: 2022-03-21 21:40:23 +0900
+category: etc
 ---
 
 <div class="video-container">

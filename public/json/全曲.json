@@ -1,61 +1,37 @@
 [
     {
         "sources": [{
-            "src": "https://www.youtube.com/watch?v=CxrqWDv1Mfw",
+            "src": "https://www.youtube.com/watch?v=rT4FqOwn-rs",
             "type": "video/youtube"
         }]
     },
     {
         "sources": [{
-            "src": "https://www.youtube.com/watch?v=f0wbnQw89J0",
+            "src": "https://www.youtube.com/watch?v=mLk61pfiHQ0",
             "type": "video/youtube"
         }]
     },
     {
         "sources": [{
-            "src": "https://www.youtube.com/watch?v=Lx4xRBmhoKQ",
+            "src": "https://www.youtube.com/watch?v=YZ_LrseoM30",
             "type": "video/youtube"
         }]
     },
     {
         "sources": [{
-            "src": "https://www.youtube.com/watch?v=wbq0uT8AE_Q",
+            "src": "https://www.youtube.com/watch?v=OCZLKvByaI4",
             "type": "video/youtube"
         }]
     },
     {
         "sources": [{
-            "src": "https://www.youtube.com/watch?v=frhBgpdpSeY",
+            "src": "https://www.youtube.com/watch?v=cmwqUXuJ860",
             "type": "video/youtube"
         }]
     },
     {
         "sources": [{
-            "src": "https://www.youtube.com/watch?v=SQZg9Av56XI",
-            "type": "video/youtube"
-        }]
-    },
-    {
-        "sources": [{
-            "src": "https://www.youtube.com/watch?v=3Obh9kg6o_U",
-            "type": "video/youtube"
-        }]
-    },
-    {
-        "sources": [{
-            "src": "https://www.youtube.com/watch?v=Oj9bvmzTR2A",
-            "type": "video/youtube"
-        }]
-    },
-    {
-        "sources": [{
-            "src": "https://www.youtube.com/watch?v=dMnTojs6NXg",
-            "type": "video/youtube"
-        }]
-    },
-    {
-        "sources": [{
-            "src": "https://www.youtube.com/watch?v=gdEGEtyQCyY",
+            "src": "https://www.youtube.com/watch?v=WrZYT-duzus",
             "type": "video/youtube"
         }]
     }
