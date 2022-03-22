@@ -1,0 +1,10 @@
+---
+layout: post
+title: "[music] whole song"
+date: 2022-03-22 22:00:00 +0900
+category: remix
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/whole song.json"></video>
+</div>
