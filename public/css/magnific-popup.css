@@ -218,7 +218,7 @@ button::-moz-focus-inner {
 
 .mfp-iframe-holder {
   padding-top: 40px;
-  padding-bottom: 40px; }
+}
   .mfp-iframe-holder .mfp-content {
     line-height: 0;
     width: 100%;
