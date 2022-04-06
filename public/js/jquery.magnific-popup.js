@@ -275,8 +275,10 @@
         });
       } else {
         mfp.wrap.css({
-          top: _window.scrollTop(),
-          position: 'absolute'
+          //top: _window.scrollTop(),
+          //position: 'absolute'
+          top: 0,
+          position: 'fixed'
         });
       }
       if( mfp.st.fixedBgPos === false || (mfp.st.fixedBgPos === 'auto' && !mfp.fixedContentPos) ) {
