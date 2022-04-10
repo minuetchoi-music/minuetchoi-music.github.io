@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[음악] 한번만 더"
+title: "[음악] 사랑할수록"
 date: 2022-01-13 11:20:23 +0900
 category: k-pop
 ---
