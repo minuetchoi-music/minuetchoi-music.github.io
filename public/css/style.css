@@ -222,8 +222,8 @@ article.home div a:hover, article.home pre a:hover { color: #2c3e50; text-decora
 article img { max-width: 100%; vertical-align: middle;}
 
 blockquote {
-	color: #828282;
-  	border-left: 4px solid #ccc;
+	color: #f67066;
+  	border-left: 4px solid #f67066;
   	padding-left: 10px;
   	margin: 0;
   	margin-bottom: 15px;
