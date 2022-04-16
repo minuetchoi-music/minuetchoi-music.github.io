@@ -1,114 +1,135 @@
 table {
-	margin: 15px 0;
-	border-collapse: collapse;
-	width: 100%;
-	font-size: 1em;
-	padding: 0;
-}
-table tr {
-	border-top: 1px solid #828282;
-	background-color: white;
-	margin: 0;
-	padding: 0; 
-}
-table tr:nth-child(2n) {
-	background-color: whitesmoke;
-}
-table tr th {
-	font-weight: bold;
-	border: 1px solid #828282;
-	background-color: #000000;
-	color: #ffffff;
-	text-align: left;
-	margin: 0;
-	padding: 6px 13px;
-}
-table tr td {
-	border: 1px solid #828282;
-	text-align: left;
-	margin: 0;
-	padding: 6px 13px;
-}
-table tr th :first-child, table tr td :first-child {
-	margin: 0;
-}
-table tr th :last-child, table tr td :last-child {
-	margin: 0;
-}
-
-.video-container {
-	position: relative;
-	padding-bottom: 56.25%;
-	padding-top: 30px;
-	height: 0;
-	overflow: hidden;
-}
-
-.video-container iframe,
-.video-container video,
-.video-container object,
-.video-container embed {
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
-
-/* The side navigation menu */
-.sidenav {
-    height: 100%; /* 100% Full-height */
-    width: 0px; /* 0 width - change this with JavaScript */
-    position: fixed; /* Stay in place */
-    z-index: 2; /* Stay on top */
+    margin: 15px 0;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 1em;
+    padding: 0;
+  }
+  
+  table tr {
+    border-top: 1px solid #828282;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+  }
+  
+  table tr:nth-child(2n) {
+    background-color: whitesmoke;
+  }
+  
+  table tr th {
+    font-weight: bold;
+    border: 1px solid #828282;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+  }
+  
+  table tr td {
+    border: 1px solid #828282;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+  }
+  
+  table tr th :first-child,
+  table tr td :first-child {
+    margin: 0;
+  }
+  
+  table tr th :last-child,
+  table tr td :last-child {
+    margin: 0;
+  }
+  
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+  }
+  
+  .video-container iframe,
+  .video-container video,
+  .video-container object,
+  .video-container embed {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* The side navigation menu */
+  .sidenav {
+    height: 100%;
+    /* 100% Full-height */
+    width: 0px;
+    /* 0 width - change this with JavaScript */
+    position: fixed;
+    /* Stay in place */
+    z-index: 2;
+    /* Stay on top */
     opacity: 0.95;
     top: 0;
     right: 0;
-    background-color: #111; /* Black*/
-    overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 60px; /* Place content 60px from the top */
+    background-color: #111;
+    /* Black*/
+    overflow-x: hidden;
+    /* Disable horizontal scroll */
+    padding-top: 60px;
+    /* Place content 60px from the top */
     transition: 0.5s;
-    text-align: left	;
-}
-
-/* The navigation menu links */
-.sidenav a {
+    text-align: left;
+  }
+  
+  /* The navigation menu links */
+  .sidenav a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 18px;
     color: #818181;
     display: block;
     transition: 0.3s;
-	cursor: pointer;
-}
-
-/* When you mouse over the navigation links, change their color */
-.sidenav a:hover, .offcanvas a:focus{
+    cursor: pointer;
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .sidenav a:hover,
+  .offcanvas a:focus {
     color: #f1f1f1;
-}
-
-/* Position and style the close button (top right corner) */
-.sidenav .closebtn {
+  }
+  
+  /* Position and style the close button (top right corner) */
+  .sidenav .closebtn {
     position: absolute;
     top: 0;
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
     cursor: pointer;
-}
-
-/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
-/* #main {
-    transition: margin-left .5s;
-    padding: 20px;
-}
- */
-/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
-@media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
-}
-
-#slid {
+  }
+  
+  /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+  /* #main {
+      transition: margin-left .5s;
+      padding: 20px;
+  }
+   */
+  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+  @media screen and (max-height: 450px) {
+    .sidenav {
+      padding-top: 15px;
+    }
+  
+    .sidenav a {
+      font-size: 18px;
+    }
+  }
+  
+  #slid {
     color: #eee;
     position: fixed;
     top: 0px;
@@ -116,9 +137,322 @@ table tr th :last-child, table tr td :last-child {
     z-index: 1;
     border: none;
     cursor: pointer;
-}
-
-.fa-align-left {
+  }
+  
+  .fa-align-left {
     padding: 5px 7px;
     background: #333;
-}
+  }
+  
+  abbr[title].on {
+    position: relative;
+  }
+  
+  abbr[title].on:after {
+    content: attr(title);
+    display: block;
+    position: absolute;
+    opacity: 0.9;
+    width: 300%;
+    top: 100%;
+    left: 0;
+    padding: 0.7em;
+    border-radius: 10px 0;
+    background: #ffdce0;
+    box-shadow: rgba(0, 0, 0, 0.2) 1px 2px 4px 0;
+  }
+  
+  
+  
+  @media (max-width: 99em) {
+    body {
+      --n: 6;
+    }
+  }
+  
+  @media (max-width: 85em) {
+    body {
+      --n: 5;
+    }
+  }
+  
+  @media (max-width: 71em) {
+    body {
+      --n: 4;
+    }
+  }
+  
+  @media (max-width: 57em) {
+    body {
+      --n: 3;
+    }
+  }
+  
+  @media (max-width: 43em) {
+    body {
+      --n: 2;
+    }
+  }
+  
+  @media (max-width: 29em) {
+    body {
+      --n: 1;
+    }
+  }
+  
+  @media (max-width: 15em) {
+    body {
+      --w: 100%;
+      --h: 146.1538461538vw;
+    }
+  }
+  
+  
+  #play-pause-button {
+    font-size: 14px;
+    cursor: pointer;
+    text-decoration: none;
+    font-style: normal;
+  }
+  
+  .white-popup {
+    position: relative;
+    background: #fde1b4;
+    padding: 20px;
+    width: auto;
+    max-width: 500px;
+    margin: 20px auto;
+    font-size: 1.5em;
+  }
+  
+  .btn {
+    /* default */
+    display: inline-block;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-width: 0;
+    cursor: pointer;
+  }
+  
+  .bottom-bar {
+    --rlist: var(--c) 0 3px, transparent 0 7px;
+    --dim: 100% 0% no-repeat;
+    --ang: 0deg;
+    overflow: hidden;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: var(--h);
+    border-radius: 7px;
+    box-shadow: 2px 2px 17px #000;
+    background: repeating-linear-gradient(var(--ang-0, -45deg), var(--rlist)) var(--pos-0, 0 0)/var(--dim), repeating-linear-gradient(var(--ang-1, 45deg), var(--rlist)) var(--pos-1, 0 100%)/var(--dim), linear-gradient(var(--ang), var(--nlist));
+    width: 100%;
+    display: flex;
+  }
+  
+  .bottom-bar:nth-child(4n+2) {
+    --ang-0: 45deg;
+    --ang-1: 135deg;
+  }
+  
+  .bottom-bar:nth-child(4n+3) {
+    --ang-0: -60deg;
+    --ang-1: 60deg;
+  }
+  
+  .bottom-bar:nth-child(4n) {
+    --ang-0: -120deg;
+    --ang-1: 120deg;
+  }
+  
+  .bottom-bar:nth-child(1) {
+    --c: #fe3a01;
+    --nlist: #fe3502, #efd25d;
+  }
+  
+  .bottom-bar:nth-child(2) {
+    --c: #5d6f80;
+    --nlist: #768896, #cbd4d6;
+  }
+  
+  .bottom-bar:nth-child(3) {
+    --c: #05131f;
+    --nlist: #ffffff, #828282;
+  }
+  
+  .bottom-bar:nth-child(4) {
+    --c: #14282d;
+    --nlist: #81b7c9, #26353c;
+  }
+  
+  .bottom-bar:nth-child(5) {
+    --c: #0e685e;
+    --nlist: #77dddd, #1e766a;
+  }
+  
+  .bottom-bar:nth-child(6) {
+    --c: #dd7519;
+    --nlist: #e68323, #fcdf85;
+  }
+  
+  .bottom-bar:nth-child(7) {
+    --c: #034077;
+    --nlist: #013579, #3fdbe5;
+  }
+  
+  .bottom-bar:nth-child(8) {
+    --c: #3ea814;
+    --nlist: #e8f4c6, #3bb720;
+  }
+  
+  .bottom-bar:nth-child(9) {
+    --c: #b63e03;
+    --nlist: #ebd346, #c2400c;
+  }
+  
+  .bottom-bar:nth-child(10) {
+    --c: #010e05;
+    --nlist: #051e18, #186d56;
+  }
+  
+  .bottom-bar:nth-child(11) {
+    --c: #093658;
+    --nlist: #193961, #72cadd;
+  }
+  
+  .bottom-bar:nth-child(12) {
+    --c: #011422;
+    --nlist: #027899, #05262d;
+  }
+  
+  .bottom-bar:nth-child(13) {
+    --c: #e0aa0a;
+    --nlist: #fcef34, #dead1f;
+  }
+  
+  .bottom-bar:nth-child(14) {
+    --c: #13507e;
+    --nlist: #235790, #7fc8d3;
+  }
+  
+  .bottom-bar:nth-child(15) {
+    --c: #326f12;
+    --nlist: #397d28, #cce296;
+  }
+  
+  .bottom-bar:nth-child(16) {
+    --c: #4486b0;
+    --nlist: #d4eef7, #3b8cbc;
+  }
+  
+  .bottom-bar:nth-child(17) {
+    --c: #4d3628;
+    --nlist: #dac7b0, #513831;
+  }
+  
+  .bottom-bar:nth-child(18) {
+    --c: #ed1d00;
+    --nlist: #ef2902, #f6940a;
+  }
+  
+  .bottom-bar:nth-child(19) {
+    --c: #c71b01;
+    --nlist: #cd1700, #f76705;
+  }
+  
+  .bottom-bar:nth-child(20) {
+    --c: #2e354c;
+    --nlist: #adc0e0, #303548;
+  }
+  
+  .bottom-bar:nth-child(21) {
+    --c: #88b70f;
+    --nlist: #e2eb81, #9cc323;
+  }
+  
+  .bottom-bar:nth-child(22) {
+    --c: #243eb1;
+    --nlist: #3046bb, #a4c9e6;
+  }
+  
+  .bottom-bar:nth-child(23) {
+    --c: #990741;
+    --nlist: #a6103c, #f246d6;
+  }
+  
+  .bottom-bar:nth-child(24) {
+    --c: #456400;
+    --nlist: #d2e001, #3a6202;
+  }
+  
+  .bottom-bar:nth-child(25) {
+    --c: #bf5734;
+    --nlist: #ecd7bc, #c95c3a;
+  }
+  
+  .bottom-bar:nth-child(26) {
+    --c: #228f8a;
+    --nlist: #2b9c96, #90e1e2;
+  }
+  
+  .bottom-bar:nth-child(27) {
+    --c: #49130c;
+    --nlist: #de8068, #55221a;
+  }
+  
+  .bottom-bar:nth-child(28) {
+    --c: #32453f;
+    --nlist: #b9dcce, #333e3a;
+  }
+  
+  .v {
+    --dim: 50% no-repeat;
+    --ang: 0deg;
+    --pos-1: 100%;
+  }
+  
+  .bottom-bar1 {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .bottom-bar2 {
+    flex: 6;
+    text-align: center;
+  }
+  
+  .bottom-bar3 {
+    flex: 1;
+    text-align: center;
+  }
+  
+  ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 30px;
+  }
+  
+  
+  
+  code.highlighter-rouge {
+    position: relative;
+    margin-bottom: 1em;
+    background: #ffd23f;
+    color: rgb(0, 0, 0);
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    font-size: 1.25em;
+    line-height: 1.8;
+    border-radius: 4px
+  }
+  
+  code.highlighter-rouge>pre,
+  code.highlighter-rouge pre.highlight {
+    margin: 0;
+    padding: 1em
+  }
