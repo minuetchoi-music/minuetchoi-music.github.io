@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[音楽] everything(It's you)"
+title: "[音楽] everything"
 date: 2022-02-22 12:00:00 +0900
 category: j-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/everything(It's you).json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/everything.json"></video>
 </div>
 
 ```
