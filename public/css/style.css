@@ -234,15 +234,35 @@ p {
   margin-bottom: 0;
 }
 
-article h1,
-article h2,
-article h3,
-article h4,
-article h5,
-article h6 {
+article h1 {
+	font-size: 17px;
 	font-family: "Roboto", "Nanum Gothic";
 	color: #333;
-  	/*margin-bottom: 0;*/
+}
+article h2 {
+	font-size: 16px;
+	font-family: "Roboto", "Nanum Gothic";
+	color: #333;
+}
+article h3 {
+	font-size: 15px;
+	font-family: "Roboto", "Nanum Gothic";
+	color: #333;
+}
+article h4 {
+	font-size: 14px;
+	font-family: "Roboto", "Nanum Gothic";
+	color: #333;
+}
+article h5 {
+	font-size: 13px;
+	font-family: "Roboto", "Nanum Gothic";
+	color: #333;
+}
+article h6 {
+	font-size: 12px;
+	font-family: "Roboto", "Nanum Gothic";
+	color: #333;
 }
 
 article.home h1 a,
