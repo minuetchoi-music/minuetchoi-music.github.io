@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[音楽] white love"
-date: 2022-02-02 15:00:00 +0900
+date: 2022-02-22 15:00:00 +0900
 category: j-pop
 ---
 

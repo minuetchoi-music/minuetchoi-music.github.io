@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[音楽] LOVE PHANTOM"
-date: 2022-02-02 10:00:00 +0900
+date: 2022-02-22 10:00:00 +0900
 category: j-pop
 ---
 

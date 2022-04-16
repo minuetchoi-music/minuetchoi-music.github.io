@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[音楽] departures"
-date: 2022-02-02 11:00:00 +0900
+date: 2022-02-22 11:00:00 +0900
 category: j-pop
 ---
 
