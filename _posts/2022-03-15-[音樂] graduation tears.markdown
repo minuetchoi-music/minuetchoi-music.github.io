@@ -6,7 +6,7 @@ category: etc
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/graduation_tears.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/etc/graduation_tears.json"></video>
 </div>
 
 ```

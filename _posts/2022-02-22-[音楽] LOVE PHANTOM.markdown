@@ -6,7 +6,7 @@ category: j-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/LOVE PHANTOM.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/j-pop/LOVE PHANTOM.json"></video>
 </div>
 
 ```

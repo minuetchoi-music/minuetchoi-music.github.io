@@ -6,7 +6,7 @@ category: v-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/ăn_sáng_nhá.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/ăn_sáng_nhá.json"></video>
 </div>
 
 ```

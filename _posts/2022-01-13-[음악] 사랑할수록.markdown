@@ -6,7 +6,7 @@ category: k-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/사랑할수록.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/사랑할수록.json"></video>
 </div>
 
 ```

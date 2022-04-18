@@ -6,7 +6,7 @@ category: v-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/người_lạ_ơi.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/người_lạ_ơi.json"></video>
 </div>
 
 ```

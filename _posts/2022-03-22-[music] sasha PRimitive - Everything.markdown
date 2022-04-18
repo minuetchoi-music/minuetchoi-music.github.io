@@ -6,5 +6,5 @@ category: remix
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/sasha PRimitive - Everything.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/remix/sasha PRimitive - Everything.json"></video>
 </div>

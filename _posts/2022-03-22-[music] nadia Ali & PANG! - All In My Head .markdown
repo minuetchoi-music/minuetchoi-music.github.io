@@ -6,5 +6,5 @@ category: remix
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/nadia Ali & PANG! - All In My Head.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/remix/nadia Ali & PANG! - All In My Head.json"></video>
 </div>
