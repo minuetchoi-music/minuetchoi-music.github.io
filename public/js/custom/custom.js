@@ -60,7 +60,9 @@ $(document).ready(function () {
                     tag = $(element).closest('li').html().replace(/<span.*>.*<\/span>/gi, '').replace(/\[.*\]/gi, '');
                     strHtml.push(tag.replace('post-link', 'marquee-link'));
                 });
-                $('marquee').html(strHtml.join(''));
+                setTimeout(function() {
+                    $('marquee').html(strHtml.join(''));
+                }, 5000);
             },
             error: function (xhr, status, error) {
                 console.log("ERROR!!!");
