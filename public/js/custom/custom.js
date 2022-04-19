@@ -62,7 +62,7 @@ $(document).ready(function () {
                 });
                 setTimeout(function() {
                     $('marquee').html(strHtml.join(''));
-                }, 3000);
+                }, 5000);
             },
             error: function (xhr, status, error) {
                 console.log("ERROR!!!");
