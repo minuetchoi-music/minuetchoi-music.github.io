@@ -54,15 +54,14 @@ $(document).ready(function () {
             cache: false,
             datatype: "html",
             success: function (data) {
+                $('marquee').html('');
                 var strHtml = [];
                 var tag;
-                $(data).find('.post-content').find('a[href*="' + location + '"]').each(function (index, element) {
+                $(data).find('.post-content').find('a[href*="/' + location + '"]').each(function (index, element) {
                     tag = $(element).closest('li').html().replace(/<span.*>.*<\/span>/gi, '').replace(/\[.*\]/gi, '');
                     strHtml.push(tag.replace('post-link', 'marquee-link'));
                 });
-                setTimeout(function() {
-                    $('marquee').html(strHtml.join(''));
-                }, 5000);
+                $('marquee').html(strHtml.join(''));
             },
             error: function (xhr, status, error) {
                 console.log("ERROR!!!");
