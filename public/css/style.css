@@ -168,6 +168,12 @@ a.nav-item:hover { color: #777; }
 	color: #333;
 }
 
+.marquee-link {
+	margin-left: 50px;
+	font-size: 110%;
+	color: rgb(10, 88, 255);
+}
+
 #contact-list li .fa,
 article .share .btn {
 	-o-transition:color .2s ease-out, background 1s ease-in;
@@ -279,7 +285,7 @@ article.home h4 a:hover {
 }
 
 header.post-header {
-	padding: 50px 0px 10px 0px;
+	padding: 20px 0px 10px 0px;
 	margin-bottom: 30px;
 	border-bottom: 1px solid #ccc;
 	text-align: center;

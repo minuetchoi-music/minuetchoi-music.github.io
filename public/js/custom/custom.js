@@ -44,6 +44,30 @@ $(document).ready(function () {
         }
     });
     // --북마크 end
+
+    // marquee start
+    var location = window.location.pathname.split('/')[1];
+    if ($('marquee').length > 0) {
+        $.ajax({
+            type: "GET",
+            url: '/category/#' + location,
+            cache: false,
+            datatype: "html",
+            success: function (data) {
+                var strHtml = [];
+                var tag;
+                $(data).find('.post-content').find('a[href*="' + location + '"]').each(function (index, element) {
+                    tag = $(element).closest('li').html().replace(/<span.*>.*<\/span>/gi, '').replace(/\[.*\]/gi, '');
+                    strHtml.push(tag.replace('post-link', 'marquee-link'));
+                });
+                $('marquee').html(strHtml.join(''));
+            },
+            error: function (xhr, status, error) {
+                console.log("ERROR!!!");
+            }
+        });
+    }
+    // --marquee end
 });
 
 // 영상 셔플
