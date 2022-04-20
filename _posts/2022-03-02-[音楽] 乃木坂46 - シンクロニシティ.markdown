@@ -2,7 +2,7 @@
 layout: post
 title: "[音楽] 乃木坂46 - シンクロニシティ"
 date: 2022-03-02 15:20:23 +0900
-category: j-pop乃木坂46 - シンクロニシティ
+category: j-pop
 ---
 
 <div class="video-container">
