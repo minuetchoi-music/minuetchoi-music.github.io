@@ -2,11 +2,11 @@
 layout: post
 title: "[音楽] 乃木坂46 - シンクロニシティ"
 date: 2022-03-02 15:20:23 +0900
-category: j-pop
+category: j-pop乃木坂46 - シンクロニシティ
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/j-pop/シンクロニシティ.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/j-pop/乃木坂46 - シンクロニシティ.json"></video>
 </div>
 
 ```
