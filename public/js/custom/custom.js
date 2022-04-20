@@ -32,36 +32,35 @@ $(document).ready(function () {
 
     // 북마크 strt
     $('.bookmark').magnificPopup({
-        type:'iframe',
+        type: 'iframe',
         iframe: {
             markup: '<meta name="viewport" content="width=device-width; initial-scale=1.0, user-scalable=no">' +
-                    '<style>.mfp-iframe-holder .mfp-content {max-width: 100%;height:100%}</style>'+
-                    '<div class="mfp-iframe-scaler" >'+
-                    '<div class="mfp-close"></div>'+
-                    '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>'+
-                    '</div></div>' +
-                    '<script>closeNav()</script>'
+                '<style>.mfp-iframe-holder .mfp-content {max-width: 100%;height:100%}</style>' +
+                '<div class="mfp-iframe-scaler" >' +
+                '<div class="mfp-close"></div>' +
+                '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>' +
+                '</div></div>' +
+                '<script>closeNav()</script>'
         }
     });
     // --북마크 end
 
     // marquee start
-    var location = window.location.pathname.split('/')[1];
-    if ($('marquee').length > 0) {
+    if ($('.marquee').length > 0) {
+        var location = window.location.pathname.split('/')[1];
         $.ajax({
             type: "GET",
             url: '/category/#' + location,
             cache: false,
             datatype: "html",
             success: function (data) {
-                $('marquee').html('');
                 var strHtml = [];
                 var tag;
                 $(data).find('.post-content').find('a[href*="/' + location + '"]').each(function (index, element) {
                     tag = $(element).closest('li').html().replace(/<span.*>.*<\/span>/gi, '').replace(/\[.*\]/gi, '');
                     strHtml.push(tag.replace('post-link', 'marquee-link'));
                 });
-                $('marquee').html(strHtml.join(''));
+                $('.marquee').html('<marquee behavior="scroll" direction="left">' + shuffle(strHtml).join('') + '</marquee>');
             },
             error: function (xhr, status, error) {
                 console.log("ERROR!!!");

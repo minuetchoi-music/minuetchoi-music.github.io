@@ -169,9 +169,9 @@ a.nav-item:hover { color: #777; }
 }
 
 .marquee-link {
-	margin-left: 50px;
+	margin-left: 60px;
 	font-size: 110%;
-	color: rgb(10, 88, 255);
+	color: rgb(37, 37, 37);
 }
 
 #contact-list li .fa,
@@ -286,7 +286,7 @@ article.home h4 a:hover {
 
 header.post-header {
 	padding: 20px 0px 10px 0px;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 	border-bottom: 1px solid #ccc;
 	text-align: center;
 }
