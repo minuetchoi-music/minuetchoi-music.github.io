@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[bài hát] mình là gì của nhau"
+title: "[bài hát] lou hoàng - mình là gì của nhau"
 date: 2022-02-13 18:51:23 +0900
 category: v-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/mình_là_gì_của_nhau.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/lou hoàng - mình là gì của nhau.json"></video>
 </div>
 
 ```

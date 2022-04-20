@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[bài hát] người lạ ơi"
+title: "[bài hát] superbrothers&karik&orange - người lạ ơi"
 date: 2022-02-13 16:20:23 +0900
 category: v-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/người_lạ_ơi.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/superbrothers&karik&orange - người lạ ơi.json"></video>
 </div>
 
 ```

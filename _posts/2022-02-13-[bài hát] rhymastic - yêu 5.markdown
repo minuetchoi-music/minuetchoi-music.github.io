@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[bài hát] yêu 5"
+title: "[bài hát] rhymastic - yêu 5"
 date: 2022-02-13 19:01:23 +0900
 category: v-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/yêu_5.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/rhymastic - yêu 5.json"></video>
 </div>
 
 ```

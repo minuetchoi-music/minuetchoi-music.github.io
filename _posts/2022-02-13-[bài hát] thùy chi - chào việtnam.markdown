@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[bài hát] chào việtnam"
+title: "[bài hát] thùy chi - chào việtnam"
 date: 2022-02-13 17:20:23 +0900
 category: v-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/chào_việtnam.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/thùy chi - chào việtnam.json"></video>
 </div>
 
 ```

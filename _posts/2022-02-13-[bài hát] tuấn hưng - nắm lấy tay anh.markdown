@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[bài hát] nắm lấy tay anh"
+title: "[bài hát] tuấn hưng - nắm lấy tay anh"
 date: 2022-02-13 10:20:23 +0900
 category: v-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/nắm_lấy_tay_anh.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/tuấn hưng - nắm lấy tay anh.json"></video>
 </div>
 
 ```

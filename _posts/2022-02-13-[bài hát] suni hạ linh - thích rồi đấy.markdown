@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[bài hát] thích rồi đấy"
+title: "[bài hát] suni hạ linh - thích rồi đấy"
 date: 2022-02-13 12:20:23 +0900
 category: v-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/thích_rồi_đấy.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/suni hạ linh - thích rồi đấy.json"></video>
 </div>
 
 ```

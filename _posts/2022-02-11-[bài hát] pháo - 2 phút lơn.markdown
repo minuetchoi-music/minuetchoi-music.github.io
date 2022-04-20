@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[bài hát] 2 phút lơn"
+title: "[bài hát] pháo - 2 phút lơn"
 date: 2022-02-11 15:20:23 +0900
 category: v-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/2_phút_lơn.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/pháo - 2 phút lơn.json"></video>
 </div>
 
 ```

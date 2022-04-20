@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[bài hát] yêu một người có lẽ"
+title: "[bài hát] lou hoàng&miu lê - yêu một người có lẽ"
 date: 2022-02-13 15:20:23 +0900
 category: v-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/yêu_một_người_có_lẽ.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/lou hoàng&miu lê - yêu một người có lẽ.json"></video>
 </div>
 
 ```

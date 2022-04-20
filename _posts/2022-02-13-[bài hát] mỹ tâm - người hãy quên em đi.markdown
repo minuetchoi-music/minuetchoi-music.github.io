@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[bài hát] người hãy quên em đi"
+title: "[bài hát] mỹ tâm - người hãy quên em đi"
 date: 2022-02-13 18:32:23 +0900
 category: v-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/người_hãy_quên_em_đi.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/v-pop/mỹ tâm - người hãy quên em đi.json"></video>
 </div>
 
 ```
