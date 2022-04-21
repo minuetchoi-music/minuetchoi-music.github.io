@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[음악] 너를 사랑하고도"
+title: "[음악] 전유나 - 너를 사랑하고도"
 date: 2022-01-10 15:20:23 +0900
 category: k-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/너를 사랑하고도.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/전유나 - 너를 사랑하고도.json"></video>
 </div>
 
 ```

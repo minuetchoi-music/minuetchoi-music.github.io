@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[음악] 사랑할수록"
+title: "[음악] 부활 - 사랑할수록"
 date: 2022-01-13 11:20:23 +0900
 category: k-pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/사랑할수록.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/부활 - 사랑할수록.json"></video>
 </div>
 
 ```
