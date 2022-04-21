@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[音樂] one summer night"
+title: "[音樂] 陈秋霞&阿B - one summer night"
 date: 2022-03-15 11:20:23 +0900
 category: etc
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/etc/one_summer_night.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/etc/陈秋霞&阿B - one summer night.json"></video>
 </div>
 
 ```

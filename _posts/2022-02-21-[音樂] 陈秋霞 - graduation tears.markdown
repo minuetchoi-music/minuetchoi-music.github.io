@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[音樂] graduation tears"
-date: 2022-03-15 10:20:23 +0900
+title: "[音樂] 陈秋霞 - graduation tears"
+date: 2022-02-21 10:20:23 +0900
 category: etc
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/etc/graduation_tears.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/etc/陈秋霞 - graduation tears.json"></video>
 </div>
 
 ```
