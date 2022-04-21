@@ -45,7 +45,8 @@ table tr td :last-child {
 }
 
 .video-container {
-  position: relative;
+  position: sticky;
+  top: 0px;
   padding-bottom: 56.25%;
   padding-top: 30px;
   height: 0;
