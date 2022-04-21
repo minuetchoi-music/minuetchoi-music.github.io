@@ -10,6 +10,7 @@ category: v-pop
 </div>
 
 ```
+It's L.O.U
 Có một số chuyện không cần thiết phải nói ra
 Thì ta tốt hơn cứ nên im lặng
 Này em, những lời hứa
