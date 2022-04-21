@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[MUSIC] you're my heart, you're my soul"
+title: "[MUSIC] modern talking - you're my heart, you're my soul"
 date: 2021-12-05 15:20:23 +0900
 category: pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/pop/you're my heart, you're my soul.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/pop/modern talking - you're my heart, you're my soul.json"></video>
 </div>
 
 ```

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[MUSIC] the final countdown"
+title: "[MUSIC] europe - the final countdown"
 date: 2021-12-10 15:20:23 +0900
 category: pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/pop/the final countdown.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/pop/europe - the final countdown.json"></video>
 </div>
 
 ```

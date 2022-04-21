@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[MUSIC] fantasy Boy"
+title: "[MUSIC] new baccara - fantasy Boy"
 date: 2021-12-01 15:20:23 +0900
 category: pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/pop/fantasy boy.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/pop/new baccara - fantasy boy.json"></video>
 </div>
 
 ```
