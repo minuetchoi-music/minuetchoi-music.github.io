@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音樂] 陈秋霞 - graduation tears"
+title: "陈秋霞 - graduation tears"
 date: 2022-02-21 10:20:23 +0900
 category: etc
 ---

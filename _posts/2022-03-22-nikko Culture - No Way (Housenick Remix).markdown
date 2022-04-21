@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[music] Nikko Culture - No Way (Housenick Remix)"
+title: "Nikko Culture - No Way (Housenick Remix)"
 date: 2022-03-22 10:00:00 +0900
 category: remix
 ---

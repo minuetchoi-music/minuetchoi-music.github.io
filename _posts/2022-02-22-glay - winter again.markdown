@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] glay - winter again"
+title: "glay - winter again"
 date: 2022-02-22 16:00:00 +0900
 category: j-pop
 ---

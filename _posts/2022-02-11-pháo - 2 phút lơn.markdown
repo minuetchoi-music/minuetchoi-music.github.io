@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] pháo - 2 phút lơn"
+title: "pháo - 2 phút lơn"
 date: 2022-02-11 15:20:23 +0900
 category: v-pop
 ---

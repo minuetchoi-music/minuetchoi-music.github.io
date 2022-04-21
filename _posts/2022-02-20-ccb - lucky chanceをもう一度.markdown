@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] ccb - lucky chanceをもう一度"
+title: "ccb - lucky chanceをもう一度"
 date: 2022-02-20 11:20:23 +0900
 category: j-pop
 ---

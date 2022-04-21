@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] 宇多田ヒカル - flavor of life"
+title: "宇多田ヒカル - flavor of life"
 date: 2022-02-23 10:00:00 +0900
 category: j-pop
 ---

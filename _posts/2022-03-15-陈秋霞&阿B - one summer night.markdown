@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音樂] 陈秋霞&阿B - one summer night"
+title: "陈秋霞&阿B - one summer night"
 date: 2022-03-15 11:20:23 +0900
 category: etc
 ---

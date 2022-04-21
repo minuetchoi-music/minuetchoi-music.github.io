@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[음악] 변진섭 - 너에게로 또다시"
+title: "변진섭 - 너에게로 또다시"
 date: 2022-01-10 16:20:23 +0900
 category: k-pop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] lou hoàng&miu lê - yêu một người có lẽ"
+title: "lou hoàng&miu lê - yêu một người có lẽ"
 date: 2022-02-13 15:20:23 +0900
 category: v-pop
 ---

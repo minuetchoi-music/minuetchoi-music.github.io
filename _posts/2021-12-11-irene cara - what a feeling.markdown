@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[MUSIC] irene cara - what a feeling"
+title: "irene cara - what a feeling"
 date: 2021-12-11 15:20:23 +0900
 category: pop
 ---

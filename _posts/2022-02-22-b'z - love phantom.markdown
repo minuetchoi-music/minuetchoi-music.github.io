@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] b'z - love phantom"
+title: "b'z - love phantom"
 date: 2022-02-22 10:00:00 +0900
 category: j-pop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] trịnh thăng binh - người ấy"
+title: "trịnh thăng binh - người ấy"
 date: 2022-02-13 18:21:23 +0900
 category: v-pop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] my little lover - hello again"
+title: "my little lover - hello again"
 date: 2022-02-22 13:00:00 +0900
 category: j-pop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[music] Desireless - Voyage Voyage (AndreiD Remix)"
+title: "Desireless - Voyage Voyage (AndreiD Remix)"
 date: 2022-03-22 14:00:00 +0900
 category: remix
 ---

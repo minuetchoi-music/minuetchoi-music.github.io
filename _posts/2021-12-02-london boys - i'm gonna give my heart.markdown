@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[MUSIC] london boys - i'm gonna give my heart"
+title: "london boys - i'm gonna give my heart"
 date: 2021-12-02 15:20:23 +0900
 category: pop
 ---

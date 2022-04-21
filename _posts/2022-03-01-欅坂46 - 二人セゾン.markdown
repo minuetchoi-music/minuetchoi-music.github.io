@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] 欅坂46 - 二人セゾン"
+title: "欅坂46 - 二人セゾン"
 date: 2022-03-01 15:20:23 +0900
 category: j-pop
 ---

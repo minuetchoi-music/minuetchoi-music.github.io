@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[MUSIC] sarah - tokyo town"
+title: "sarah - tokyo town"
 date: 2021-12-03 15:20:23 +0900
 category: pop
 ---

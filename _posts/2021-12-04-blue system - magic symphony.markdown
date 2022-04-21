@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[MUSIC] blue system - magic symphony"
+title: "blue system - magic symphony"
 date: 2021-12-04 15:20:23 +0900
 category: pop
 ---

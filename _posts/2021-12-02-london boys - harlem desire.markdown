@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[MUSIC] london boys - harlem desire"
+title: "london boys - harlem desire"
 date: 2021-12-02 16:20:23 +0900
 category: pop
 ---

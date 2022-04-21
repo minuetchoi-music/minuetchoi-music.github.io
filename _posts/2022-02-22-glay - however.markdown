@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] glay - however"
+title: "glay - however"
 date: 2022-02-22 17:00:00 +0900
 category: j-pop
 ---

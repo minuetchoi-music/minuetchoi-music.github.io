@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[MUSIC] yana kay - set my heart on fire"
+title: "yana kay - set my heart on fire"
 date: 2021-12-08 15:20:23 +0900
 category: pop
 ---

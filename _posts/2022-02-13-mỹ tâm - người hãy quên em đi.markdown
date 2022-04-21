@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] mỹ tâm - người hãy quên em đi"
+title: "mỹ tâm - người hãy quên em đi"
 date: 2022-02-13 18:32:23 +0900
 category: v-pop
 ---

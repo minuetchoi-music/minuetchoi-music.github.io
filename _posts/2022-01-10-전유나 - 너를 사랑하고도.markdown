@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[음악] 전유나 - 너를 사랑하고도"
+title: "전유나 - 너를 사랑하고도"
 date: 2022-01-10 15:20:23 +0900
 category: k-pop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] 安室奈美恵 - can you celebrate"
+title: "安室奈美恵 - can you celebrate"
 date: 2022-02-22 17:00:00 +0900
 category: j-pop
 ---

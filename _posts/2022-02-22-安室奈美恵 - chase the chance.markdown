@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] 安室奈美恵 - chase the chance"
+title: "安室奈美恵 - chase the chance"
 date: 2022-02-22 07:00:00 +0900
 category: j-pop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] x japan - silent jealousy"
+title: "x japan - silent jealousy"
 date: 2022-02-20 15:20:23 +0900
 category: j-pop
 ---

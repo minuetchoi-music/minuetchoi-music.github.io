@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] speed - white love"
+title: "speed - white love"
 date: 2022-02-22 15:00:00 +0900
 category: j-pop
 ---

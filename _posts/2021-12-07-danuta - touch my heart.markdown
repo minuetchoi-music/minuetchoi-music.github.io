@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[MUSIC] danuta - touch my heart"
+title: "danuta - touch my heart"
 date: 2021-12-06 15:20:23 +0900
 category: pop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[MUSIC] modern talking - you're my heart, you're my soul"
+title: "modern talking - you're my heart, you're my soul"
 date: 2021-12-05 15:20:23 +0900
 category: pop
 ---

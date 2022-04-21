@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[music] whole song"
+title: "whole song"
 date: 2022-03-25 22:00:00 +0900
 category: remix
 ---

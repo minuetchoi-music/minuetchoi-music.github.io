@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[음악] 부활 - 사랑할수록"
+title: "부활 - 사랑할수록"
 date: 2022-01-13 11:20:23 +0900
 category: k-pop
 ---

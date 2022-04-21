@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] globe - departures"
+title: "globe - departures"
 date: 2022-02-22 11:00:00 +0900
 category: j-pop
 ---

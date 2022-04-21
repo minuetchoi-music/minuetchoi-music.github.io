@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[MUSIC] europe - the final countdown"
+title: "europe - the final countdown"
 date: 2021-12-10 15:20:23 +0900
 category: pop
 ---

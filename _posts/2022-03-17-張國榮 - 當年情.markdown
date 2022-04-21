@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音樂] 張國榮 - 當年情"
+title: "張國榮 - 當年情"
 date: 2022-03-17 12:2:23 +0900
 category: etc
 ---

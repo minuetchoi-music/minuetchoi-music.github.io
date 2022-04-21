@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] chage&aska - on your mark"
+title: "chage&aska - on your mark"
 date: 2022-02-20 16:20:23 +0900
 category: j-pop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] tất cả các bài"
+title: "tất cả các bài"
 date: 2022-02-13 19:12:00 +0900
 category: v-pop
 ---

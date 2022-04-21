@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[music] osaka feat. Brianna - Find Me"
+title: "osaka feat. Brianna - Find Me"
 date: 2022-03-04 10:00:00 +0900
 category: remix
 ---

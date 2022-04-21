@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] lou hoàng - em chưa 18"
+title: "lou hoàng - em chưa 18"
 date: 2022-02-13 18:20:23 +0900
 category: v-pop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] 宇多田ヒカル - goodbye happiness"
+title: "宇多田ヒカル - goodbye happiness"
 date: 2022-02-23 12:00:00 +0900
 category: j-pop
 ---

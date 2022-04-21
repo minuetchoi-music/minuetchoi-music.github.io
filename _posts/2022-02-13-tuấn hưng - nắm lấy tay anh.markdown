@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] tuấn hưng - nắm lấy tay anh"
+title: "tuấn hưng - nắm lấy tay anh"
 date: 2022-02-13 10:20:23 +0900
 category: v-pop
 ---

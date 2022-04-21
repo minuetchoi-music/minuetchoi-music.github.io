@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] 宇多田ヒカル - automatic"
+title: "宇多田ヒカル - automatic"
 date: 2022-02-23 11:00:00 +0900
 category: j-pop
 ---

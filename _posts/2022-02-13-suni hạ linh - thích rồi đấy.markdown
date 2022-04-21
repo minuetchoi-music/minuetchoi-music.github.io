@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] suni hạ linh - thích rồi đấy"
+title: "suni hạ linh - thích rồi đấy"
 date: 2022-02-13 12:20:23 +0900
 category: v-pop
 ---

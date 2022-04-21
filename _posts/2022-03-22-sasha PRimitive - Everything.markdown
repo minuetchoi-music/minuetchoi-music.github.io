@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[music] Sasha PRimitive - Everything"
+title: "Sasha PRimitive - Everything"
 date: 2022-03-22 11:00:00 +0900
 category: remix
 ---

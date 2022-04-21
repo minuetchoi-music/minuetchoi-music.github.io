@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音樂] Regine Velasquez and Jacky Cheung - In Love With You"
+title: "Regine Velasquez and Jacky Cheung - In Love With You"
 date: 2022-03-25 13:20:23 +0900
 category: etc
 ---

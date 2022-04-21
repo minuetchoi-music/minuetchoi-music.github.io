@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] rhymastic - yêu 5"
+title: "rhymastic - yêu 5"
 date: 2022-02-13 19:01:23 +0900
 category: v-pop
 ---

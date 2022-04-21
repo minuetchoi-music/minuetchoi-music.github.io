@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] misia - everything"
+title: "misia - everything"
 date: 2022-02-22 12:00:00 +0900
 category: j-pop
 ---

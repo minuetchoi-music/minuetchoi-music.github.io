@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] thùy chi - chào việtnam"
+title: "thùy chi - chào việtnam"
 date: 2022-02-13 17:20:23 +0900
 category: v-pop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] erik&suni hạ linh - ăn sáng nha"
+title: "erik&suni hạ linh - ăn sáng nha"
 date: 2022-02-13 11:20:23 +0900
 category: v-pop
 ---

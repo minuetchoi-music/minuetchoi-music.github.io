@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] 浜崎あゆみ - seasons"
+title: "浜崎あゆみ - seasons"
 date: 2022-02-22 14:00:00 +0900
 category: j-pop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] lou hoàng - mình là gì của nhau"
+title: "lou hoàng - mình là gì của nhau"
 date: 2022-02-13 18:51:23 +0900
 category: v-pop
 ---

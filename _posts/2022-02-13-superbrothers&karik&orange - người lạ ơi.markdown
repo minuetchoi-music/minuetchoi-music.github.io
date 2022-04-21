@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[bài hát] superbrothers&karik&orange - người lạ ơi"
+title: "superbrothers&karik&orange - người lạ ơi"
 date: 2022-02-13 16:20:23 +0900
 category: v-pop
 ---

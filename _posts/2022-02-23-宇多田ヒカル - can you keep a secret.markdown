@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] 宇多田ヒカル - can you keep a secret"
+title: "宇多田ヒカル - can you keep a secret"
 date: 2022-02-23 9:00:00 +0900
 category: j-pop
 ---

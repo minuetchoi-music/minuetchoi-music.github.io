@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音楽] 全曲"
+title: "全曲"
 date: 2022-03-25 21:40:23 +0900
 category: etc
 ---

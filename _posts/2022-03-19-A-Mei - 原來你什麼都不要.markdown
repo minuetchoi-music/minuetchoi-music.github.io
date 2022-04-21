@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[音樂] A-Mei - 原來你什麼都不要"
+title: "A-Mei - 原來你什麼都不要"
 date: 2022-03-19 13:20:23 +0900
 category: etc
 ---
