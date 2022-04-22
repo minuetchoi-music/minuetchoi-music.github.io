@@ -9,7 +9,8 @@ category: j-pop
     <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/j-pop/AKB48 - 桜の花びらたち.json"></video>
 </div>
 
-```教室の窓辺には うららかな陽だまり
+```
+教室の窓辺には うららかな陽だまり
 あと僅かの春のカレンダー
 授業中 見渡せば 同じ制服着た
 仲間たちが 大人に見える
