@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安室奈美恵 - chase the chance"
+title: "安室奈美恵 - body feels exit"
 date: 2022-02-22 06:00:00 +0900
 category: j-pop
 ---
