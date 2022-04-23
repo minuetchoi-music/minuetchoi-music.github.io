@@ -1,0 +1,71 @@
+---
+layout: post
+title: "wham - last christmas"
+date: 2021-12-17 15:20:23 +0900
+category: pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/pop/wham - last christmas.json"></video>
+</div>
+
+```
+Oh, oh-oh, ooh-oh-oh-oh
+Ah-ah
+
+Last Christmas, I gave you my heart
+But the very next day, you gave it away
+This year, to save me from tears
+I'll give it to someone special
+
+Last Christmas, I gave you my heart
+But the very next day, you gave it away (you gave it away)
+This year, to save me from tears
+I'll give it to someone special (special)
+
+Once bitten and twice shy
+I keep my distance, but you still catch my eye
+Tell me, baby, do you recognize me?
+Well, it's been a year, it doesn't surprise me
+
+"Merry Christmas, " I wrapped it up and sent it
+With a note saying, "I love you, " I meant it
+Now I know what a fool I've been
+But if you kissed me now, I know you'd fool me again
+
+Last Christmas, I gave you my heart
+But the very next day, you gave it away (you gave it away)
+This year, to save me from tears
+I'll give it to someone special (special)
+
+Last Christmas, I gave you my heart
+But the very next day, you gave it away
+This year, to save me from tears
+I'll give it to someone special (special)
+
+A crowded room, friends with tired eyes
+I'm hiding from you, and your soul of ice
+My God, I thought you were someone to rely on
+Me? I guess I was a shoulder to cry on
+
+A face on a lover with a fire in his heart
+A man undercover, but you tore me apart
+Ooh-hoo
+Now I've found a real love, you'll never fool me again
+
+Last Christmas, I gave you my heart
+But the very next day, you gave it away (you gave it away)
+This year, to save me from tears
+I'll give it to someone special (special)
+
+Last Christmas, I gave you my heart (I gave you my heart)
+But the very next day, you gave it away (you gave it away)
+This year, to save me from tears
+I'll give it to someone special (special)
+
+A face on a lover with a fire in his heart (I gave you my heart)
+A man undercover, but you tore him apart
+Maybe next year, I'll give it to someone
+I'll give it to someone special (special!)
+So long!
+```
