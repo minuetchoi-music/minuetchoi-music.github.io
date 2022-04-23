@@ -1,3 +1,4 @@
+window.onload=function(){ setTimeout(function(){ window.scrollTo(0, 1); }, 0); }
 $(document).ready(function () {
 
     // 영상 strt
