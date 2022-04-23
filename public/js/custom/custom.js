@@ -1,6 +1,3 @@
-window.addEventListener('load', function () {
-    setTimeout(scrollTo, 0, 0, 1);
-}, false);
 $(document).ready(function () {
 
     // 영상 strt
