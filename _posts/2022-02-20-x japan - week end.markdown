@@ -10,31 +10,59 @@ category: j-pop
 </div>
 
 ```
-さめきった街に別れを告げ
-荒れくるう刺激に身をさらせ
-あいつの瞳は光り失せた
-燃えくるう心は操れない
+I hear a knock on the door 激しくせまる
+失いかけた意識のなかで おまえがささやく
+追いつめられた心溶かす 鈍色の肖像
+切り刻まれた記憶を映しだす
 
-※乱れた愛に流され おまえは全てを失った
-身体貫く叫びで おまえの心壊してやる※
+咲き乱れた hateful black heart 心にせまる
+研ぎ澄まされた transient feeling 人波の中
+ヒステリックにざわめく風に 止まらない涙を
+胸に抱きしめ 孤独を色どる
 
-錆付いた言葉投げ捨てて
-張り裂ける心を解き放て
-降りしきる雨に背を向けて
-息づく奴らに言葉はない
+I've nothing to lose (love me till the end) except your heart
+I've nothing to lose (love me till the end) except your heart
 
-埋もれた時に戸惑う おまえは悪夢をさまよう
-血の気震わすNoiseで おまえの心壊してやる
+手首を流れる血をおまえの体に
+絡みつけると一瞬のうちに 更みがえる記憶に視界を
+閉ざされ笑いながら 逃げてゆくおまえの姿を
+見つめる傷ついたオレが立っている
+Weekend, weekend, weekend, weekend, I'm at my wits end
+Weekend, weekend, weekend I'm at my wits end, weekend
 
-△X 感じてみろ X 叫んでみろ X 全て脱ぎ捨てろ
-X 感じてみろ X 叫んでみろ X 心燃やせ△
+I've nothing to lose (love me till the end) except your heart
+I've nothing to lose (love me till the end) except your heart (no way out)
 
-X You don't have to hesitate.
-Get yourself out.
-You know You are the best!
-Let's get Crazy!
+I hear a knock on the door 激しくせまる
+失いかけた意識のなかで おまえがささやく
+冷たい指先のばし 傷口に口づけ
+赤く染まった凶気を抱きしめる
 
-(△くり返し)
-(※くり返し)
-(△くり返し×2)
+鏡を見つめながらふるえる体に
+流れはじめた澄き通る血を 青白いおまえの心に
+絡ませ幻覚に消えて行く最後の涙を
+拾い集めて血の海にまどろむ
+Weekend, weekend, weekend, weekend, I'm at my wits end
+Weekend, weekend, weekend I'm at my wits end, weekend
+I still love you, weekend
+But I cannot carry on
+
+手首を流れる血をおまえの体に
+絡みつけると一瞬のうちに 更みがえる記憶に視界を
+閉ざされ笑いながら 逃げてゆくおまえの姿を
+見つめる傷ついたオレが立っている
+Weekend, weekend, weekend, weekend, I'm at my wits end
+Weekend, weekend, weekend I'm at my wits end
+
+Weekend, weekend, weekend, I'm at my wits end
+Weekend, weekend, weekend, I'm at my wits end
+
+Weekend, weekend, weekend, I'm at my wits end
+Weekend, weekend, weekend, I'm at my wits end
+
+Weekend, weekend, weekend, I'm at my wits end
+Weekend, weekend, weekend, I'm at my wits end
+
+Weekend, weekend, weekend, I'm at my wits end
+Weekend, weekend, weekend, I'm at my wits end, weekend
 ```
