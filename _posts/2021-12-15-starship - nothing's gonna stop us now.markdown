@@ -10,42 +10,87 @@ category: pop
 </div>
 
 ```
-Meeting you with a view to a kill
-Face to faces, secret places, feel the chill
+… Lookin' in your eyes
+I see a paradise
+This world that I've found is too good to be true
+Standin' here beside you
+Want so much to give you
+This love in my heart that I'm feeling for you
 
-Night fall covers me
-But you know the plans I'm making
-Still overseas,
-Could it be the whole lot opening wide
-A sacred why
-A mystery gaping inside
-A week is why
+… Let 'em say we're crazy
+I don't care about that
+Put your hand in my hand
+Baby, don't ever look back
+Let the world around us
+Just fall apart
+Baby, we can make it
+If we're heart to heart
 
-Until we dance into the fire
-That fatal kiss is all we need
-Dance into the fire
-To fatal sounds of broken dreams
-Dance into the fire
-That fatal kiss is all we need
-Dance into the fire
+… And we can build this dream together
+Standing strong forever
+Nothing's gonna stop us now
+And if this world runs out of lovers
+We'll still have each other
+Nothing's gonna stop us
+Nothing's gonna stop us now
 
-The choice for you is the view to a kill
-Between the shades assassination standing still
+… Oh, whoa
 
-First crystal tears,
-Fallen of snowflakes on your body
-First time in years
-To drench you skin of lover's rosy stain
-A chance to find the phoenix for the flame
-A chance to die
+… I'm so glad I found you
+I'm not gonna lose you
+Whatever it takes
+I will stay here with you
+Take you to the good times
+See you through the bad times
+Whatever it takes
+Is what I'm gonna do
 
-But can we dance into the fire
-That fatal kiss is all we need
-Dance into the fire
-To fatal sounds of broken dreams
-Dance into the fire
-That fatal kiss is all we need
-Dance into the fire
+… Let 'em say we're crazy
+What do they know?
+Put your arms around me
+Baby, don't ever let go
+Let the world around us
+Just fall apart
+Baby, we can make it
+If we're heart to heart
 
-When all we see is the view to a kill
+… And we can build this dream together
+Standing strong forever
+Nothing's gonna stop us now
+And if this world runs out of lovers
+We'll still have each other
+Nothing's gonna stop us
+Nothing's gonna stop us
+
+… Ooh, all that I need is you
+All that I ever need
+All that I want to do
+Is hold you forever
+Forever and ever...
+
+… And we can build this dream together
+Standing strong forever
+Nothing's gonna stop us now
+And if this world runs out of lovers
+We'll still have each other
+Nothing's gonna stop us
+Nothing's gonna stop us
+
+… Build this dream together
+Standing strong forever
+Nothing's gonna stop us now
+And if this world runs out of lovers
+We'll still have each other
+Nothing's gonna stop us
+
+… And we can build this dream together
+Standing strong forever
+Nothing's gonna stop us now (Nothing's gonna stop us)
+And if this world runs out of lovers
+We'll still have each other
+Nothing's gonna stop us
+
+… And we can build this dream together
+Standing strong forever
+Nothing's gonna stop us now
 ```
