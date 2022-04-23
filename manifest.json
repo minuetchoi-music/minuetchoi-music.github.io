@@ -10,5 +10,6 @@
     ],
     "start_url": "/index.html",
     "display": "standalone",
-    "orientation": "portrait"
+    "orientation": "portrait",
+    "background_color" : "#e5e5e5"
 }
