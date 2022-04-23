@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "duran duran - a view to a kill"
-date: 2021-12-14 15:20:23 +0900
+title: "starship - nothing's gonna stop us now"
+date: 2021-12-15 15:20:23 +0900
 category: pop
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/pop/duran duran - a view to a kill.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/pop/starship - nothing's gonna stop us now.json"></video>
 </div>
 
 ```
