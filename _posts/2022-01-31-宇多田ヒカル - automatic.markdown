@@ -1,0 +1,89 @@
+---
+layout: post
+title: "宇多田ヒカル - automatic"
+date: 2022-01-31 23:00:00 +0900
+category: j-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/j-pop/宇多田ヒカル - automatic.json"></video>
+</div>
+
+```
+七回目のベルで
+受話器を取った君
+名前を言わなくても
+声ですぐ分かってくれる
+
+唇から自然と
+こぼれ落ちるメロディー
+でも言葉を失った瞬間が
+一番幸せ
+
+嫌なことがあった日も
+君に会うと全部フッ飛んじゃうよ
+君に会えない my rainy days
+声を聞けば自動的に
+Sun will shine
+
+It's automatic
+側にいるだけで
+その目に見つめられるだけで
+ドキドキ止まらない
+(I don't know why)
+Noとは言えない
+I just can't help
+
+It's automatic
+抱きしめられると
+君とparadiseにいるみたい
+キラキラまぶしくて
+(I don't know why)
+目をつぶるとすぐ
+I feel so good
+It's automatic
+
+あいまいな態度が
+まだ不安にさせるから
+こんなにほれてることは
+もう少し秘密にしておくよ
+
+やさしさがつらかった日も
+いつも本当のことを言ってくれた
+ひとりじゃ泣けない rainy days
+指輪をさわれば
+ほらね sun will shine
+
+It's automatic
+側にいるだけで
+体中が熱くなってくる
+ハラハラ隠せない
+(I don't know why)
+息さえ出来ない
+I just can't help
+
+It's automatic
+アクセスしてみると
+映るcomputer screenの中
+チカチカしてる文字
+(I don't know why)
+手をあててみると
+I feel so warm
+
+It's automatic
+側にいるだけで
+愛しいなんて思わない
+ただ必要なだけ
+(I don't know why)
+淋しいからじゃない
+I just need you
+
+It's automatic
+抱きしめられると
+君とparadiseにいるみたい
+キラキラまぶしくて
+(I don't know why)
+目をつぶるとすぐ
+I feel so good
+It's automatic
+```

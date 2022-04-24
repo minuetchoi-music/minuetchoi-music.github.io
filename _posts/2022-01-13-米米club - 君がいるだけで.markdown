@@ -1,0 +1,48 @@
+---
+layout: post
+title: "米米club - 君がいるだけで"
+date: 2022-01-13 23:00:00 +0900
+category: j-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/j-pop/米米club - 君がいるだけで.json"></video>
+</div>
+
+```
+たとえば君がいるだけで心が強くなれること
+何より大切なものを気付かせてくれたね
+ありがちな罠につい引き込まれ
+思いもよらないくやしい涙よ
+自分の弱さも知らないくせに
+強がりの汽車を走らせていた
+めぐり逢った時のように
+いつまでも変わらずいられたら
+Wow wow True Heart
+たとえば君がいるだけで心が強くなれること
+何より大切なものを気付かせてくれたね
+裏切りの鏡に映しだされた
+笑顔につられて流された日々
+儚いものへの憧れだけで
+すぐ目の前にあることを忘れてた
+なぜにもっと素直になれなかったのだろう
+君にまで
+Wow wow True Heart
+たとえば君がいるだけで心が強くなれること
+何より大切なものを気付かせてくれたね
+True Heart 伝えられない
+True Heart わかって
+True Heart 見えないものを
+True Heart 見つめて
+Wow True Heart
+Wow True Heart
+True Heart
+True Heart
+True Heart
+True Heart
+たとえば君がいるだけで心が強くなれること
+いつでもいつの時も二人はお互いを見つめてる
+たとえば君がいるだけで心が強くなれること
+いつでもいつの時も二人はお互いを見つめてる
+ララララ... ラララ...
+```
