@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "rhymastic - yêu 5"
-date: 2022-02-13 19:01:23 +0900
+date: 2021-10-07 23:00:00 +0900
 category: v-pop
 ---
 

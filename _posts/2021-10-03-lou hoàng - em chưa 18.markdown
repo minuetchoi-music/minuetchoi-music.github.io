@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "lou hoàng - em chưa 18"
-date: 2022-02-13 18:20:23 +0900
+date: 2021-10-03 23:00:00 +0900
 category: v-pop
 ---
 

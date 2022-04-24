@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "pháo - 2 phút lơn"
-date: 2022-02-11 15:20:23 +0900
+date: 2021-10-01 23:00:00 +0900
 category: v-pop
 ---
 
