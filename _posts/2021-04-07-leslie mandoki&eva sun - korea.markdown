@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "leslie mandoki&eva sun - korea"
-date: 2021-12-05 15:20:23 +0900
+date: 2021-04-07 23:00:00 +0900
 category: pop
 ---
 

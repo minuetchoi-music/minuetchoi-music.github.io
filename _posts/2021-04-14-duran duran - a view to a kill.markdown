@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "duran duran - a view to a kill"
-date: 2021-12-14 15:20:23 +0900
+date: 2021-04-14 23:00:00 +0900
 category: pop
 ---
 
