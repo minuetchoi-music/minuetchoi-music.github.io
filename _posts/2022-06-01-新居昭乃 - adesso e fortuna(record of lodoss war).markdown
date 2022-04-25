@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "新居昭乃 - adesso e fortuna(record of lodoss war)"
-date: 2022-04-01 10:00:00 +0900
+date: 2022-06-01 10:00:00 +0900
 category: ani
 ---
 
