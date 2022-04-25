@@ -1,6 +1,12 @@
 window.onload=function(){ setTimeout(function(){ window.scrollTo(0, 1); }, 0); }
 $(document).ready(function () {
 
+    var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
+    if (!isMobile) {
+        $('.video-container').css('position', 'relative');
+    }
+
     // 영상 strt
     var $video = $('video');
 
