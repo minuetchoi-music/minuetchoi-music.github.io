@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "trịnh thăng binh - người ấy"
-date: 2021-10-12 23:00:00 +0900
+date: 2021-10-11 23:00:00 +0900
 category: v-pop
 ---
 
