@@ -5,6 +5,8 @@ $(document).ready(function () {
 
     if (!isMobile) {
         $('.video-container').css('position', 'relative');
+    } else {
+        $('.video-container').css('position', 'sticky');
     }
 
     // 영상 strt
