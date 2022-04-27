@@ -52,7 +52,6 @@ body {
 	padding: 0;
 	font-family: 'Gelasio', 'Nanum Myeongjo', serif;
 	color: #2c3e50;
-	background-image: url( "/public/img/bg.png" );
 	overscroll-behavior: contain;
 }
 
@@ -72,6 +71,7 @@ pre {
 	margin-bottom: 15px;
 	padding-bottom: 10px;
 	padding: 5px;
+	margin: 0px;
 	line-height: 1.2;
 }
 
@@ -170,12 +170,6 @@ a.nav-item:hover { color: #777; }
 	color: #333;
 }
 
-.marquee-link {
-	margin-left: 60px;
-	font-size: 110%;
-	color: rgb(37, 37, 37);
-}
-
 #contact-list li .fa,
 article .share .btn {
 	-o-transition:color .2s ease-out, background 1s ease-in;
@@ -221,7 +215,7 @@ article .share .gplus:hover {
 article {
 	padding: 0 1% 0;
 	font-size: 17px;
-	margin-bottom: 50px;
+	/* margin-bottom: 50px; */
 	line-height: 1.9;
 }
 
@@ -289,7 +283,7 @@ article.home h4 a:hover {
 header.post-header {
 	padding: 20px 0px 10px 0px;
 	margin-bottom: 10px;
-	border-bottom: 1px solid #ccc;
+	/* border-bottom: 1px solid #ccc; */
 	text-align: center;
 }
 

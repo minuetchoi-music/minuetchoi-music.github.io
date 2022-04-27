@@ -54,8 +54,7 @@ $(document).ready(function () {
     });
     // --북마크 end
 
-    // marquee start
-    if ($('.marquee').length > 0) {
+    if ($('.video-container').length > 0) {
         var location = window.location.pathname.split('/')[1];
         $.ajax({
             type: "GET",
@@ -65,18 +64,23 @@ $(document).ready(function () {
             success: function (data) {
                 var strHtml = [];
                 var tag;
+                var title;
                 $(data).find('.post-content').find('a[href*="/' + location + '"]').each(function (index, element) {
                     tag = $(element).closest('li').html().replace(/<span.*>.*<\/span>/gi, '').replace(/\[.*\]/gi, '');
-                    strHtml.push(tag.replace('post-link', 'marquee-link'));
+                    title = $(element).closest('li').find('a').html();
+                    if ($.trim($('.post-title').html()) == $.trim(title)) {
+                        strHtml.push(tag.replace('post-link', 'wrap-vertical-link2'));
+                    } else {
+                        strHtml.push(tag.replace('post-link', 'wrap-vertical-link'));
+                    }
                 });
-                $('.marquee').html('<marquee behavior="scroll" direction="left">' + shuffle(strHtml).join('') + '</marquee>');
+                $('.highlighter-rouge').before('<div class="wrap-vertical">' + shuffle(strHtml).join('') + '</div>');
             },
             error: function (xhr, status, error) {
                 console.log("ERROR!!!");
             }
         });
     }
-    // --marquee end
 });
 
 // 영상 셔플

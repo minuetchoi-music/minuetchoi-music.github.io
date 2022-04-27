@@ -457,3 +457,37 @@ code.highlighter-rouge pre.highlight {
   margin: 0;
   padding: 1em
 }
+
+.wrap-vertical {
+  top: 0px;
+  width: 100%;
+  padding: 20px;
+  overflow: scroll;
+  color: #030303;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.wrap-vertical::-webkit-scrollbar {
+  display: none;
+}
+
+
+.wrap-vertical-link {
+	background-color : rgba(0, 0, 0, 0.05);
+	border-radius: 30px;
+	padding: 10px 15px 10px 15px;
+	margin-left: 60px;
+	font-size: 110%;
+	color: rgb(37, 37, 37);
+}
+
+
+.wrap-vertical-link2 {
+	background-color : #000000;
+	border-radius: 30px;
+	padding: 10px 15px 10px 15px;
+	margin-left: 60px;
+	font-size: 110%;
+	color: rgb(255, 255, 255);
+}
