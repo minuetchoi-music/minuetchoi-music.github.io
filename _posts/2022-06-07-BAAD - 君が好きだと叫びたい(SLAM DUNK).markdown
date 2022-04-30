@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BAAD - 君が好きだと叫びたい(SLAM DUNK)"
-date: 2022-06-05 23:00:00 +0900
+date: 2022-06-07 23:00:00 +0900
 category: ani
 ---
 
