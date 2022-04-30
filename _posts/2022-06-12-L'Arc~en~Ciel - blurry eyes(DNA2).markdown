@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "L'Arc~en~Ciel - blurry eyes(DNA2)"
-date: 2022-06-14 23:00:00 +0900
+date: 2022-06-12 23:00:00 +0900
 category: ani
 ---
 

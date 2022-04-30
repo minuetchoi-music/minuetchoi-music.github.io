@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "林原 めぐみ - Give a reason(SLAYERS NEXT)"
-date: 2022-06-13 23:00:00 +0900
+date: 2022-06-14 23:00:00 +0900
 category: ani
 ---
 
