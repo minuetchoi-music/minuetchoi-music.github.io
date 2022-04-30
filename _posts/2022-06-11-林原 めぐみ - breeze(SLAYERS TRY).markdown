@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "林原 めぐみ - breeze(SLAYERS TRY)"
-date: 2022-06-08 23:00:00 +0900
+date: 2022-06-11 23:00:00 +0900
 category: ani
 ---
 

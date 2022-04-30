@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "林原 めぐみ&雅美奥井 - get along(SLAYERS)"
-date: 2022-06-09 23:00:00 +0900
+date: 2022-06-12 23:00:00 +0900
 category: ani
 ---
 
