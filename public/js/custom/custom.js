@@ -35,8 +35,14 @@ $(document).ready(function () {
                 for (var i = 0; i < arr.length; i++) {
                     lyrics[arr[i].sources[0].src] = arr[i].sources[0].lyrics;
                 }
+                var previousSrc = '';
+                var currentSrc = '';
                 player.on('timeupdate', function () {
-                    $('.highlighter-rouge').find('code').html(lyrics[player.currentSrc()]);
+                    currentSrc = player.currentSrc();
+                    if (previousSrc != currentSrc) {
+                        $('.highlighter-rouge').find('code').html(lyrics[currentSrc]);
+                        previousSrc = currentSrc;
+                    }
                 });
             },
             error: function (xhr, status, error) {
