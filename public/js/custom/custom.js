@@ -89,7 +89,9 @@ $(document).ready(function () {
                     }
                 });
                 $('.highlighter-rouge').before('<div class="wrap-vertical">' + shuffle(strHtml).join('') + '</div>');
-                $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - ($(window).width() / 2) }, 400, function () {});
+                setTimeout(function () {
+                    $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 20}, 400, function () {});
+                }, 3000);
             },
             error: function (xhr, status, error) {
                 console.log("ERROR!!!");
