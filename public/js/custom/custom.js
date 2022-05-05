@@ -30,6 +30,14 @@ $(document).ready(function () {
                 player.playlist(shuffle(arr));
                 player.playlist.autoadvance(0);
                 player.playlist.repeat(true);
+
+                var lyrics = {};
+                for (var i = 0; i < arr.length; i++) {
+                    lyrics[arr[i].sources[0].src] = arr[i].sources[0].lyrics;
+                }
+                player.on('timeupdate', function () {
+                    $('.highlighter-rouge').find('code').html(lyrics[player.currentSrc()]);
+                });
             },
             error: function (xhr, status, error) {
                 console.log("ERROR!!!");

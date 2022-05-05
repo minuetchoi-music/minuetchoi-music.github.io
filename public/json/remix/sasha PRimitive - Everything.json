@@ -2,7 +2,8 @@
     {
         "sources": [{
             "src": "https://www.youtube.com/watch?v=GiS4OfieuuM",
-            "type": "video/youtube"
+            "type": "video/youtube",
+            "lyrics": ""
         }]
     }
 ]

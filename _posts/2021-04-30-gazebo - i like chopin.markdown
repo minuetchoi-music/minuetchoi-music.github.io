@@ -10,38 +10,4 @@ category: pop
 </div>
 
 ```
-Remember that piano
-So delightful unusual
-That classic sensation
-Sentimental confusion
-
-Used to say
-I like Chopin
-Love me now and again
-Whoa-oh-oh
-
-Rainy days never say goodbye
-To desire when we are together
-Rainy days growing in your eyes
-Tell me where's my way
-
-Imagine your face
-In a sunshine reflection
-A vision of blue skies
-Forever distractions
-
-Used to say
-I like Chopin
-Love me now and again
-Whoa-oh-oh
-
-Rainy days never say goodbye
-To desire when we are together
-Rainy days growing in your eyes
-Tell me where's my way
-
-Rainy days never say goodbye
-To desire when we are together
-Rainy days growing in your eyes
-Tell me where's my way
 ```

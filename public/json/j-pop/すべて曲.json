@@ -1,37 +1,10 @@
 [
     {
-        "sources": [{
-            "src": "https://www.youtube.com/watch?v=yhQw-syTgQI",
-            "type": "video/youtube"
-        }]
-    },
-    {
-        "sources": [{
-            "src": "https://www.youtube.com/watch?v=Pt6XXo0FaQA",
-            "type": "video/youtube"
-        }]
-    },
-    {
         "sources": [
             {
-                "src": "https://www.youtube.com/watch?v=CxrqWDv1Mfw",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=f0wbnQw89J0",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=LjI9T9vbxUs",
-                "type": "video/youtube"
+                "src": "https://www.youtube.com/watch?v=yhQw-syTgQI",
+                "type": "video/youtube",
+                "lyrics": "HA... HA... HA...\nHA... HA... HA...\nHA... HA... HA...\nHA... HA... HA...\n\n月の雫を背に受けて\n一枚の葉が風に揺れる\nその手 放せば楽なのに\nしがみつくのはなぜだろう\n\n何のために生きるのか?\n何度 問いかけてはみても\n空の涯まで暗闇が黙り込む\n夢を見られるなら この瞼を閉じよう\n悩んでも やがて夜は明けてく\n\n命は美しい\n初めて気づいた日から\nすべてのその悲しみ\n消えて行くんだ\n永遠ではないもの\n花の儚さに似て\nその一瞬 一瞬が\n生きてる意味\n\n地平線から差し込んだ\n藍色の陽が語りかける\n昨日 途中であきらめたこと\n今日もう一度 始めよう\n\n何のために生きてるか?\n答え 見つからなくたって\n目の前にある真実は一つだけ\nそれがしあわせだと教えられるよりも\n足下に咲いた花を見つけろ!\n\n命は逞しい\nこの世に生まれてから\nどんなに傷ついても\n立ち上がろうか\n捨ててはいけないんだ\n人は約束してる\nみんな一人 そう一人\n次の未来\n\n命は美しい\n初めて気づいた日から\nすべてのその悲しみ\n消えて行くんだ\n永遠ではないもの\n花の儚さに似て\nその一瞬 一瞬が\n生きてる意味\n"
             }
         ]
     },
@@ -39,191 +12,35 @@
         "sources": [
             {
                 "src": "https://www.youtube.com/watch?v=wbq0uT8AE_Q",
-                "type": "video/youtube"
+                "type": "video/youtube",
+                "lyrics": "朝の靄(もや)に差し込んだ陽の光\n木々の中をひたすら走ってた\nどこを行けば空に辿り着くのか？\n風は何も語りはしない\n\n君がやりたいと 始めてみたことなのに\n空回りして すべて嫌になったのか？\n違う自分になろうとしてたんだろう\n密かな決心はどこへ捨てた？\n\nいつかできる(できるのなら)\nそのうちに(今日できるよ)\nここで逃げ出さないで\n前を向いて大地立つんだ\n\nいつかは(遠すぎるよ)\n眩しい(この場所から)\n先に延ばさずに\n踏み出せよ すぐに\n君ならできる\n\n枝の先で青空を見上げてる\n鳥は何を思って鳴くのだろう？\n涯(はて)を知ってもっと強くなりたい\n羽根を広げ夢見ていたんだ\n\n人は誰も皆 未来が傷つかぬように\n新しいこと 試そうとはしなくなる\n失うものなんて何もないだろう\n闇が降りても夜は明けるよ\n\nいつかできる(できなかったら)\nそのうちに(今日だめでも)\nもしも失敗したって\n何度だって立ち上がればいい\n\nいつかは(未来よりも)\nやさしい(日向のように)\n温もりをくれる\nさあ勇気出して\n生まれ変わろう\n\nOH OH OH OH OH...\n\n今日 できるよ(いつかじゃなく)\n今すぐに(始めればいい)\nいつかも今日も同じ\nやるかやらないか...\n\nいつかできる(できるのなら)\nそのうちに(今日できるよ)\nここで逃げ出さないで\n前を向いて大地立つんだ\n\nいつかは(遠すぎるよ)\n眩しい(この場所から)\n先に延ばさずに\n踏み出せよ すぐに\n君ならできる\n"
             }
         ]
     },
     {
         "sources": [
             {
-                "src": "https://www.youtube.com/watch?v=cKlzhfUgRUM",
-                "type": "video/youtube"
+                "src": "https://www.youtube.com/watch?v=Pt6XXo0FaQA",
+                "type": "video/youtube",
+                "lyrics": "ブンブンブン ブンブンブン\nブンブンブン ブンブンブン\nインフルエンサー\n(HEY！HEY！HEY！)\nブンブンブン ブンブンブン\nブンブンブン ブンブンブン\nインフルエンサー\n(HEY！HEY！HEY！)\n\nいつだって 知らないうちに 僕は見まわしている (何度も)\n君がどこで何をしているか 気になってしまうんだ\n(落ち着かなくなる)\n\n声くらい掛ければいい 誰もが思うだろう (できない)\n君がいる場所がわかったら 僕には地図になるんだ\n\n気配以上 会話未満 恋はいつも余所余所しい\n胸騒ぎが聴こえないように 世界から言葉なんか 消えてしまえばいい\n\n地球と太陽みたいに 光と影が生まれて\n君を探してばかり 距離は縮まらない\n(HEY！HEY！HEY！)\n重力 引力 惹かれて\n1から10まで君次第\n存在するだけで 影響 与えてる\nインフルエンサー\n\nブンブンブン ブンブンブン\nブンブンブン ブンブンブン\nインフルエンサー\n(HEY！HEY！HEY！)\n\nその他の誰かなんて 全然 興味ないけど (なぜだか)\n君が何を考えてるか 知りたくてしょうがない\n(振り回されてる)\n\nミュージックやファッションとか 映画や小説とか (何でも)\nお気に入りのもの 手にすれば 時間を共有できるんだ\n\n外見よりももっと深く 恋は内面 覗くことさ\n君らしさに溺れてしまう 切なさがもの足りない\n僕は叫んでいる\n自転と公転みたいに 意識と愛が回って\n君を想い続ける 宇宙の中心さ\n(HEY！HEY！HEY！)\nどんなに離れていたって 働き掛けるその力\nもし君がいなくなったら 僕は僕じゃなくなる\nインフルエンサー\n\n地球と太陽みたいに 光と影が生まれて\n君を探してばかり 距離は縮まらない\n(HEY！HEY！HEY！)\n重力 引力 惹かれて\n1から10まで君次第\n存在するだけで 影響 与えてる\nインフルエンサー\n\nブンブンブン ブンブンブン\nブンブンブン ブンブンブン\nインフルエンサー\n(HEY！HEY！HEY！)\nブンブンブン ブンブンブン\nブンブンブン ブンブンブン\nインフルエンサー\n(HEY！HEY！HEY！)\n"
             }
         ]
     },
     {
         "sources": [
             {
-                "src": "https://www.youtube.com/watch?v=O9GRQM1a_iU",
-                "type": "video/youtube"
+                "src": "https://www.youtube.com/watch?v=CxrqWDv1Mfw",
+                "type": "video/youtube",
+                "lyrics": "電車が近づく\n気配が好きなんだ\n高架線のその下で耳を澄ましてた\n柱の落書き\n数字とイニシャルは\n誰が誰に何を残そうとしたのだろう\n\n歳月(とき)の流れは (歳月(とき)の流れは)\n教えてくれる (教えてくれる)\n過ぎ去った普通の日々が\nかけがえのない足跡と...\n\nサヨナラに強くなれ\nこの出会いに意味がある\n悲しみの先に続く\n僕たちの未来\n始まりはいつだって\nそう何かが終わること\nもう一度君を抱きしめて\n守りたかった\n愛に代わるもの\n\n電車が通過する\n轟音(ごうおん)と風の中\n君の唇が動いたけど\n聴こえない\n静寂が戻り\n答えを待つ君に\n僕は目を見て微笑みながら\n頷いた\n\n大切なもの (大切なもの)\n遠ざかっても (遠ざかっても)\n新しい出会いがまた\nいつかはきっとやって来る\n\nサヨナラを振り向くな\n追いかけてもしょうがない\n思い出は\n今いる場所に置いて行こうよ\n終わることためらって\n人は皆立ち止まるけど\n僕たちは抱き合ってた\n腕を離して\nもっと強くなる\n\n躊躇してた間に\n陽は沈む (切なく)\n遠くに見える鉄塔\nぼやけてく (確かな距離)\n君が好きだけど (君が好きだけど)\nちゃんと言わなくちゃいけない\n見つめあった瞳が星空になる\n\nサヨナラは通過点\nこれからだって何度もある\n後ろ手(で)でピースしながら\n歩き出せるだろう\n君らしく...\n\nサヨナラに強くなれ\nこの出会いに意味がある\n悲しみの先に続く\n僕たちの未来\n始まりはいつだって\nそう何かが終わること\nもう一度君を抱きしめて\n本当の気持ち問いかけた\n失いたくない\n守りたかった\n愛に代わるもの\n"
             }
         ]
     },
     {
         "sources": [
             {
-                "src": "https://www.youtube.com/watch?v=bE8yFwo_k8k",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=ULOHDSomw2E",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=wtK45oLsOUk",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=w3EPSUIz_30",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=McrMTCMOI50",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=gPcPseeICjs",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=xdnDrHWmiic",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=wfVStsF-y48",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=RkF5_BpBQU4",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=aHIR33pOUv0",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=kMs3JIXeJ0Q",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=AP0zrQsgTbA",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=IIohAPcV0jo",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=HKn4X9tWAqA",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=xwC-z7AELn4",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=tYy4alqqqAw",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=oOje3G5MrOg",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=m34TWYNEoUQ",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=frhBgpdpSeY",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=jqMVJRUSNM8",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=-qaEthNwXKE",
-                "type": "video/youtube"
+                "src": "https://www.youtube.com/watch?v=f0wbnQw89J0",
+                "type": "video/youtube",
+                "lyrics": "悲しい出来事があると\n僕は一人で\n\n夜の街をただひたすら歩くんだ\n背中丸め俯いて\n行く当てなんかないのに\n雑踏のその中を彷徨う\n\nキープゴーイング (ウォウ ウォウ ウォウ)\nキープゴーイング (ウォウ ウォウ ウォウ)\nすれ違う見ず知らずの人よ\n事情は知らなくてもいいんだ\n少しだけこの痛みを 感じてくれないか?\n信号を待つ間に ちょっとだけ時間をいいかい?\nこの気持ちが分かるはずだ シンクロニシティ\n\nきっと 誰だって 誰だってあるだろう\nふいに気づいたら泣いていること\n理由なんて何も思い当たらずに\n涙がこぼれる\n\nそれは そばにいる そばにいる誰かのせい\n言葉を交わしていなくても\n心が勝手に共鳴するんだ\n愛を分け合って\n\nハモれ (ウォウ ウォウ ウォウ)\nハモれ (ウォウ ウォウ ウォウ)\nみんなが信じてないこの世の中も\n思ってるより愛に溢れてるよ\n近づいて「どうしたの?」と聞いて来ないけど\n世界中の人が 誰かのことを思い浮かべ\n遠くの幸せ願うシンクロニシティ\n\nだから 一人では一人では負けそうな\n突然やって来る悲しみさえ\n一緒に泣く誰かがいて\n乗り越えられるんだ\n\nずっと お互いにお互いに思いやれば\nいつしか心は一つになる\n横断歩道で隣り合わせた\n他人同士でも偶然\n\n抱え込んだ憂鬱とか\n胸の痛みも 76億分の一になった気がする\n\nきっと 誰だって誰だってあるだろう\nふいに気づいたら泣いていること\n理由なんて何も思い当たらずに\n涙がこぼれる\n\nそれは そばにいる そばにいる誰かのせい\n言葉を交わしていなくても\n心が勝手に共鳴するんだ\n愛を分け合って\n\nハモれ (ウォウ ウォウ ウォウ)\nハモれ (ウォウ ウォウ ウォウ)\nハモれ\n泣いてる人のために 僕もどこかで\n何も気づかず そっと涙流したい\n"
             }
         ]
     },
@@ -231,71 +48,62 @@
         "sources": [
             {
                 "src": "https://www.youtube.com/watch?v=SQZg9Av56XI",
-                "type": "video/youtube"
+                "type": "video/youtube",
+                "lyrics": "I love you\n今だけは悲しい歌聞きたくないよ\nI love you\n逃れ逃れ辿り着いたこの部屋\n何もかも許された恋じゃないから\n二人はまるで捨て猫みたい\nこの部屋は落葉に埋もれた空き箱みたい\nだからおまえは小猫の様な泣き声で\n\nきしむベッドの上で優しさを持ちより\nきつく躰抱きしめあえば\nそれからまた二人は目を閉じるよ\n悲しい歌に愛がしらけてしまわぬ様に\n\nI love you\n若すぎる二人の愛には触れられぬ秘密がある\nI love you\n今の暮らしの中では辿り着けない\nひとつに重なり生きてゆく恋を\n夢見て傷つくだけの二人だよ\n何度も愛してるって聞くおまえは\nこの愛なしでは生きてさえゆけないと\n\nきしむベッドの上で優しさを持ちより\nきつく躰抱きしめあえば\nそれからまた二人は目を閉じるよ\n悲しい歌に愛がしらけてしまわぬ様に\n"
             }
         ]
     },
     {
         "sources": [
             {
-                "src": "https://www.youtube.com/watch?v=3Obh9kg6o_U",
-                "type": "video/youtube"
+                "src": "https://www.youtube.com/watch?v=wtK45oLsOUk",
+                "type": "video/youtube",
+                "lyrics": "たとえば君がいるだけで心が強くなれること\n何より大切なものを気付かせてくれたね\nありがちな罠につい引き込まれ\n思いもよらないくやしい涙よ\n自分の弱さも知らないくせに\n強がりの汽車を走らせていた\nめぐり逢った時のように\nいつまでも変わらずいられたら\nWow wow True Heart\nたとえば君がいるだけで心が強くなれること\n何より大切なものを気付かせてくれたね\n裏切りの鏡に映しだされた\n笑顔につられて流された日々\n儚いものへの憧れだけで\nすぐ目の前にあることを忘れてた\nなぜにもっと素直になれなかったのだろう\n君にまで\nWow wow True Heart\nたとえば君がいるだけで心が強くなれること\n何より大切なものを気付かせてくれたね\nTrue Heart 伝えられない\nTrue Heart わかって\nTrue Heart 見えないものを\nTrue Heart 見つめて\nWow True Heart\nWow True Heart\nTrue Heart\nTrue Heart\nTrue Heart\nTrue Heart\nたとえば君がいるだけで心が強くなれること\nいつでもいつの時も二人はお互いを見つめてる\nたとえば君がいるだけで心が強くなれること\nいつでもいつの時も二人はお互いを見つめてる\nララララ... ラララ...\n"
             }
         ]
     },
     {
         "sources": [
             {
-                "src": "https://www.youtube.com/watch?v=Oj9bvmzTR2A",
-                "type": "video/youtube"
+                "src": "https://www.youtube.com/watch?v=wfVStsF-y48",
+                "type": "video/youtube",
+                "lyrics": "今年もひとつ季節が巡って\n思い出はまた遠くなった\n曖昧だった夢と現実の\n境界線は濃くなった\n\nそれでもいつか君に話した\n夢に嘘はひとつもなかった\nLa, lai\n\n今日がとても楽しいと\n明日もきっと楽しくて\nそんな日々が続いてく\nそう思っていたあの頃\n\n繰り返してく毎日に少し\n物足りなさを感じながら\n\n不自然な時代のせいだよと\n先回りして諦めていた\nLa, lai\n\n今日がとても悲しくて\n明日もしも泣いていても\nそんな日々もあったねと\n笑える日が来るだろう\n\n幾度巡り巡りゆく\n限りある季節の中に\n僕らは今生きていて\nそして何を見つけるだろう\n"
             }
         ]
     },
     {
         "sources": [
             {
-                "src": "https://www.youtube.com/watch?v=QhOFg_3RV5Q",
-                "type": "video/youtube"
+                "src": "https://www.youtube.com/watch?v=frhBgpdpSeY",
+                "type": "video/youtube",
+                "lyrics": "抱きしめて\nしじまの中で\nあなたの声を聞かせて\n\nこびりつく\n涙を融かして\n冬はもうすぐ終わるよ\n\nいくつもの悲しみを\nくぐリ抜けたそのあとで\nつないだ手の温かさが\n全てを知っている\n\nあなたとふたりで\n生きて行きたい\nそれだけで何もいらない\n昼も夜も　夢の中まで\nずっと　ずっと　一緒さ\n\n傷付いた\n心のかけらを\nひとつ残らずひろって\n\n愛という\n不思議なジグソー\nつなぐ欠片(ピース)を探すよ\n\n本当の強さは\n「ひとりじゃない」って言えること\n\n風の中で寄り添う\n花のように\n秘めやかに\n\nあなたとふたりで\n生きて行けたら\n何度でも生まれ変われる\nたどリ着いた　僕らの場所で\nずっと　ずっと　一緒さ\n\nあなたとふたりで\n生きて行きたい\nそれだけで何もいらない\n時の海に　未来を浮かべ\nずっと　ずっと\nずっと　一緒さ\nずっと　ずっと　一緒さ\nずっと　一緒さ…\n"
             }
         ]
     },
     {
         "sources": [
             {
-                "src": "https://www.youtube.com/watch?v=5I4dC9elhF4",
-                "type": "video/youtube"
+                "src": "https://www.youtube.com/watch?v=m34TWYNEoUQ",
+                "type": "video/youtube",
+                "lyrics": "Body feels exit\nBody feels excite\n\nここまでどんな道を歩いて\nあなたにやっとたどり着いたかを\n何か見えずにだけど何かを\n見つけたかったよ部屋に1人きり\n膝をかかえて動けなくたって body feels!\n\nねじれてた気持ちと\n一緒に海沿いを歩いた\n波の音がいくつも\n悩みをよみがえらせるよ\n仲間たちの輪の中 何をまっていたのか\n踊る私を誰か優しくずっと見ていて\n幼い憧れ切なく\n飾らない言葉で伝える\n\nBody feels exit ここから\nきっといつか動くよ\nBody feels excite 体中\n熱く深く走る想い\n都会のビルの谷間の風を\n強気で明日に向かせて走るよ\nこんなに夜が長いものとは\n想ってもみない程寂しい\n似たもの同士のあなたと 出会えてよかった\n\nどうしても抜け出せない\n何に嫉妬してたの\n動くことが全ての\n始まりだって分かってる\n幼い憧れ切なく\n恋愛といつしか交差する\n\nBody feels exit 重ねた\n日々をきっと待ってたよね\nBody feels excite 今夜は\nふるえながら伝える\nここまでどんな道を歩いて\nあなたにやっとたどり着いたかを\n何か見えずにだけど何かを\n見つけたかったよ部屋に1人きり\n膝をかかえて動けなくたって body feels!\n\nBody feels, body feels exit\nBody feels exit ここから\nきっといつか動くよ\nBody feels excite 体中\n熱く深く走る想い\nBody feels exit\n"
             }
         ]
     },
     {
         "sources": [
             {
-                "src": "https://www.youtube.com/watch?v=MHmXom3LJpc",
-                "type": "video/youtube"
+                "src": "https://www.youtube.com/watch?v=McrMTCMOI50",
+                "type": "video/youtube",
+                "lyrics": "Can you celebrate?\nCan you kiss me tonight?\nWe will love long, long time\n\n永遠ていう言葉なんて 知らなかったよね\n(Can you celebrate? Can you kiss me tonight?)\n(We will love long, long time)\n二人きりだね 今夜からは少し照れるよね\n\nLa la la la la la\n\n永く 永く いつも見守っていてくれる誰かを\n探して見つけて 失ってまた探して\n遠かった怖かったでも\n時に素晴らしい夜もあった 笑顔もあった\nどうしようもない 風に吹かれて\n生きてる今 これでもまだ 悪くはないよね\n\nLa la la la la la\n甘く切ない 若くて幼い\n愛情ふり返れば けっこう可愛いね\n\n間違いだらけの道順\nなにかに逆らって走った\n誰かが 教えてくれた\n\nWoo 想い出から ほんの少し 抜け出せずに\nたたずんでる 訳もなくて\n涙あふれ 笑顔こぼれてる\n\n永遠ていう 言葉なんて\n知らなかったよね\n\nCan you celebrate?\nCan you kiss me tonight?\nWe will love (long, long time)\n二人きりだね 今夜からはどうぞよろしくね\nCan you celebrate?\nCan you kiss me tonight?\nI can celebrate\n"
             }
         ]
     },
     {
         "sources": [
             {
-                "src": "https://www.youtube.com/watch?v=AKJcWHxayIM",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=dMnTojs6NXg",
-                "type": "video/youtube"
-            }
-        ]
-    },
-    {
-        "sources": [
-            {
-                "src": "https://www.youtube.com/watch?v=OSY4ZF8oVRQ",
-                "type": "video/youtube"
+                "src": "https://www.youtube.com/watch?v=oOje3G5MrOg",
+                "type": "video/youtube",
+                "lyrics": "そんなんじゃないよ\n楽しいだけ\n止まらない\n衝動に\n従うだけ\n\n平坦な\n感動に\n興味はない\n退屈な\n時間は\nいらない\nHey Yo!\n\nJust Chase the Chance\n信じてる道は\nChase, Chase the Chance\nまっすぐに生きよう\n夢なんて\n見るモンじゃない\n語るモンじゃない\n叶えるものだから\n\nJust Chase the Chance\n誰も止められない\nWild & Touch\n暴れ出した欲望\nJust Chase the Chance\n愛も夢もぜんぶ\nこの胸には\nいつだってあふれてる\n\n楽しまなきゃ\n生きてる意味がない\nだけど楽しいばかりじゃ\nハリがない\n山も谷もない\n道じゃつまらない\nジェットコースターに\nならない\n\n教えこまれた\n協調性\nイイ子は\nイイ子にしかなれないよ\nもうどうしようもない\nビンビン来てる\nJust Chase the Chance\n\nもうちょっと抱いていて\n欲しい時も\nタイムリミットは\n曲げない主義でいたい\n愛なんて美しくなくっていい\nこわいくらいでもいい\n\nもうずっと昔に欲しかったような\nねだるような気持ちを\nおぼえてる\n手に入れるまで\n泣いたこと\nダダをこねた\nあの日を\nHey Yo!\n\nJust Chase the Chance\nもうもどれないって\nChase, Chase the Chance\n嘆かないでいい\n夢なんて\n過去にはない\n未来にもない\n現在追うものだから\n\nJust Chase the Chance\n立ち止まらないで\nDon't look back\n覚悟はいいかい?\nJust Chase the Chance\nこの手でつかもう\n甘くそして\n危険な夢の実を\n\nもうなんだって\nアリみたいな時代だから\nモタモタしてちゃ損だから\nA to Zだけじゃ足りなそうだから\n身体で話そう\n誰のせいでもないから\n怒らないけどね近頃つまらない\nつまらなければおかしくすればいい\nChase, Chase the Chance\n\nどうやって君は\n夢を守るの?\nかかえきれない\n夢守るの?\nどうやって君は\n愛を探すの?\n抱きしめることで\nわかるの?\nHey Yo!\n\nJust Chase the Chance\n信じてる道は\nChase, Chase the Chance\nまっすぐに生きよう\n夢なんて\n見るモンじゃない\n語るモンじゃない\n叶えるものだから\n\nJust Chase the Chance\n誰も止められない\nWild & Touch\n暴れ出した欲望\nJust Chase the Chance\n愛も夢もぜんぶ\nこの胸には\nいつだってあふれる\n\nJust Chase the Chance\nChase, Chase the Chance\nJust Chase the Chance\nもう張り裂けそうな\nこの胸の鼓動\nJust Chase the Chance\nChase, Chase the Chance\n"
             }
         ]
     },
@@ -303,7 +111,251 @@
         "sources": [
             {
                 "src": "https://www.youtube.com/watch?v=gdEGEtyQCyY",
-                "type": "video/youtube"
+                "type": "video/youtube",
+                "lyrics": "枯葉散る夕暮れは\n来る日の寒さをものがたり\n雨に壊れたベンチには\n愛をささやく歌もない\n\n恋人よ そばにいて\nこごえる私のそばにいてよ\nそしてひとこと この別れ話が\n冗談だよと 笑ってほしい\n\n砂利路を駆け足で\nマラソン人が行き過ぎる\nまるで忘却のぞむように\n止まる私を 誘っている\n\n恋人よ さようなら\n季節はめぐってくるけど\nあの日の二人 宵の流れ星\n光っては消える 無情の夢よ\n\n恋人よ そばにいて\nこごえる私のそばにいてよ\nそしてひとこと この別れ話が\n冗談だよと 笑ってほしい\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=O9GRQM1a_iU",
+                "type": "video/youtube",
+                "lyrics": "七回目のベルで\n受話器を取った君\n名前を言わなくても\n声ですぐ分かってくれる\n\n唇から自然と\nこぼれ落ちるメロディー\nでも言葉を失った瞬間が\n一番幸せ\n\n嫌なことがあった日も\n君に会うと全部フッ飛んじゃうよ\n君に会えない my rainy days\n声を聞けば自動的に\nSun will shine\n\nIt's automatic\n側にいるだけで\nその目に見つめられるだけで\nドキドキ止まらない\n(I don't know why)\nNoとは言えない\nI just can't help\n\nIt's automatic\n抱きしめられると\n君とparadiseにいるみたい\nキラキラまぶしくて\n(I don't know why)\n目をつぶるとすぐ\nI feel so good\nIt's automatic\n\nあいまいな態度が\nまだ不安にさせるから\nこんなにほれてることは\nもう少し秘密にしておくよ\n\nやさしさがつらかった日も\nいつも本当のことを言ってくれた\nひとりじゃ泣けない rainy days\n指輪をさわれば\nほらね sun will shine\n\nIt's automatic\n側にいるだけで\n体中が熱くなってくる\nハラハラ隠せない\n(I don't know why)\n息さえ出来ない\nI just can't help\n\nIt's automatic\nアクセスしてみると\n映るcomputer screenの中\nチカチカしてる文字\n(I don't know why)\n手をあててみると\nI feel so warm\n\nIt's automatic\n側にいるだけで\n愛しいなんて思わない\nただ必要なだけ\n(I don't know why)\n淋しいからじゃない\nI just need you\n\nIt's automatic\n抱きしめられると\n君とparadiseにいるみたい\nキラキラまぶしくて\n(I don't know why)\n目をつぶるとすぐ\nI feel so good\nIt's automatic\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=ULOHDSomw2E",
+                "type": "video/youtube",
+                "lyrics": "近づきたいよ 君の理想に\nおとなしくなれない\nCan you keep a secret?\n\nHit it off like this, hit it off like this, oh baby\n\nここからずっと送ってる暗号を\n君はまだ解読できてない come on\n\n伝えよう やめよう このまま隠そう\n逃げ切れなくなるまで\n信じよう だめだよ まだ疑えそうだもの\n\n近づきたいよ 君の理想に\nおとなしくなれない\nCan you keep a secret?\n悲しくないよ 君がいるから\nCan you keep a secret? Can you keep a secret?\n近づけないよ 君の理想に\nすぐには変われない\nCan you keep a secret?\n悲しくなると君を呼ぶから\nCan you keep a secret? Or このまま secret?\n\nHit it off like this, hit it off like this, oh baby\n\n側にいても 遠回しな表現探してる\n迷宮入りさせたくないなら won't you come on?\nかすかな物音 追ってくる moving shadow\nふりきれなくなる影\n少しの冒険と 傷つく勇気もあるでしょ\n\n近づきたいよ 君の理想に\nおとなしくなれない\nCan you keep a secret?\n悲しくないよ 君がいるから\nCan you keep a secret? Can you keep a secret?\n近づけないよ 君の理想に\nあとには戻れない\nCan you keep a secret?\nおしゃべりじゃないと証明してよ\nCan you keep a secret? Or このまま secret?\n\n今までずっと秘密にしてた\n誰にも言わないで\nCan you keep a secret?\n悲しくないよ 君がいるから\nCan you keep a secret? Can you keep a secret?\n傷つけないと約束しても\n誰にも分からない\nCan you keep a secret?\n悲しくないよ 君がいるから\nCan you keep a secret? Or このまま secret?\n\nCan you keep a secret?\nCan you keep a secret? Can you keep a secret?\nCan you keep a secret?\nCan you keep a secret? Can you keep a secret?\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=bE8yFwo_k8k",
+                "type": "video/youtube",
+                "lyrics": "ありがとう と君に言われると なんだかせつない\nさようならの後も解けぬ魔法 淡くほろ苦い\nThe flavor of life\nThe flavor of life\n\n友達でも恋人でもない中間地点で\n収穫の日を夢見てる 青いフルーツ\n\nあと一歩が踏み出せないせいで\nじれったいのなんのって baby\nありがとう と君に言われると なんだかせつない\nさようならの後も解けぬ魔法 淡くほろ苦い\nThe flavor of life\nThe flavor of life\n\n甘いだけの誘い文句 味っけの無いトーク\nそんなものには興味をそそられない\n\n思い通りにいかない時だって\n人生捨てたもんじゃないって\n\nどうしたの? と急に聞かれると\nううん なんでもない\nさようならの後に消える笑顔 私らしくない\n\n信じたいと願えば願うほど なんだかせつない\n「愛してるよ」よりも「大好き」の方が\n君らしいんじゃない?\nThe flavor of life\n\n忘れかけていた人の香りを\n突然思い出す頃\n降りつもる雪の白さをもっと\n素直に喜びたいよ\n\nダイアモンドよりもやわらかくて あたたかな未来\n手にしたいよ 限りある時間を君と過ごしたい\nありがとう、と君に言われると なんだかせつない\nさようならの後も解けぬ魔法 淡くほろ苦い\nThe flavor of life\nThe flavor of life\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=cKlzhfUgRUM",
+                "type": "video/youtube",
+                "lyrics": "甘いお菓子 消えた跡には\n寂しそうな男の子\n雲一つ無い summer day\n日に焼けた手足 白いワンピースが\n汚れようがおかまい無し\n無意識の楽園\n\n夢の終わりに待ったは無し\nある日 君の名を知った\n\nSo goodbye loneliness\n恋の歌 口ずさんで\nあなたの瞳に映る私は笑っているわ\nSo goodbye happiness\n何も知らずにはしゃいでた\nあの頃へはもう戻れないね\nそれでもいいの Love me\nLove me Love me\n\n考えすぎたりヤケ起こしちゃいけない\n子どもダマしさ 浮き世なんざ\n\n人は一人になった時に\n愛の意味に気づくんだ\n\n過ぎ去りし days\n優しい歌を聴かせて\n出会った頃の気持ちを\n今でも覚えてますか?\nSo goodbye innocence\n何も知らずにはしゃいでた\nあの頃へはもう戻れないね\n君のせいだよ Kiss me\n\nおお 万物が廻り廻る\nOh ダーリン ダーリン\n誰かに乗り換えたりしません\nOnly you\nありのままで生きていけたらいいよね\n大事な時 もう一人の私が邪魔をするの\nSo goodbye happiness\n何も知らずにはしゃいでた\nあの頃へ戻りたいね baby\nそしてもう一度 kiss me\n\nSo goodbye happiness\nOnly you\nSo goodbye happiness\nOnly you\nSo goodbye happiness\nOnly you\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=LjI9T9vbxUs",
+                "type": "video/youtube",
+                "lyrics": "二人セゾン 二人セゾン\n春夏で恋をして\n二人セゾン 二人セゾン\n秋冬で去って行く\n一緒に過ごした季節よ\n後悔はしてないか?\n二人セゾン\n\n道端咲いてる雑草にも\n名前があるなんて忘れてた\n気づかれず踏まれても\n悲鳴を上げない存在\n誰かと話すのが面倒で\n目を伏せて聴こえない振りしてた\n君は突然\n僕のイアホン外した\n\nWhat did you say now?\n太陽が戻って来るまでに\n大切な人ときっと出会える\n見過ごしちゃ もったいない\n愛を拒否しないで\n君はセゾン 君はセゾン\n僕の前に現れて\n君はセゾン 君はセゾン\n日常を輝かせる\n\n昨日と違った景色よ\n生きるとは変わること\n君はセゾン\nHa\n\n街を吹き抜ける風の中\n何かの香りがしてたのに\n振り返る余裕とか\n興味もなかった\n自分の半径1メートル\n見えないバリア張った別世界\nそんな僕を\n連れ出してくれたんだ\n\nWhat made you do that?\n一瞬の光が重なって\n折々の色が四季を作る\nそのどれが欠けたって\n永遠は生まれない\n二人セゾン 二人セゾン\n春夏で恋をして\n二人セゾン 二人セゾン\n秋冬で去って行く\n\n儚く切ない月日よ\n忘れないで\n花のない桜を見上げて\n満開の日を想ったことはあったか?\n想像しなきゃ\n夢は見られない\n心の窓\n\n春夏秋冬 生まれ変われると\n別れ際 君に教えられた\n\n君はセゾン 君はセゾン\n僕の前に現れて\n君はセゾン 君はセゾン\n日常を輝かせる\n二人セゾン 二人セゾン\n春夏で恋をして\n二人セゾン 二人セゾン\n秋冬で去って行く\n\n初めて感じたときめき\n思い出はカレンダー\n二人セゾン\nHa\n僕もセゾン\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=xwC-z7AELn4",
+                "type": "video/youtube",
+                "lyrics": "教室の窓辺には うららかな陽だまり\nあと僅かの春のカレンダー\n授業中 見渡せば 同じ制服着た\n仲間たちが 大人に見える\n\nそれぞれの未来へと 旅立って行くんだね\nその背中に 夢の翼(はね)が 生えてる\n\n桜の花びらたちが咲く頃\nどこかで 希望の鐘が鳴り響く\n私たちに明日の自由と 勇気をくれるわ\n桜の花びらたちが咲く頃\nどこかで 誰かがきっと祈ってる\n新しい世界のドアを 自分のその手で開くこと\n\n喧嘩して 電話して 泣いたこと あったね\n悩んだ日が なぜか懐かしい\n喜びも悲しみも 振り向けば 道のり\nどんな時も 一人じゃなかった\n\n卒業写真の中 私は微笑んで\n過ぎる季節 見送りたい\nサヨナラ\n\n涙の花びらたちがはらはら\nこの頬を流れ落ちて歩き出す\n青い空を見上げ 大きく 深呼吸しながら\n涙の花びらたちがはらはら\n思い出のその分だけ 美しく\n目の前の大人の階段 一緒に登って手を振ろう\n\n桜の花びらたちが咲く頃\nどこかで 希望の鐘が鳴り響く\n私たちに明日の自由と 勇気をくれるわ\n桜の花びらたちが咲く頃\nどこかで 誰かがきっと祈ってる\n新しい世界のドアを 自分のその手で開くこと\n\n涙の花びらたちがはらはら\nこの頬を流れ落ちて歩き出す\n青い空を見上げ 大きく 深呼吸しながら\n涙の花びらたちがはらはら\n思い出のその分だけ 美しく\n目の前の大人の階段 一緒に登って手を振ろう\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=tYy4alqqqAw",
+                "type": "video/youtube",
+                "lyrics": "偶然のいたずらで\nあなたとすれ違った\n心臓 止まりかけて\nわざと無視したまま\n通り過ぎた\n\n何て馬鹿な私なの?\nこんなに好きでいるのに\n自己嫌悪に陥る\n駅の人混みで一人\n\n一瞬の出来事が\n未来に悔いを残す PAIN\nねえ 神様 もう一度\n時間をリセットしてください\n\n女の子には スカート、ひらりひるがえし\n走りたくなる時がある\n何もかも捨てて愛に向かうよ\n恋をする度 スカート、ひらりひるがえし\nハートに火がついたように\n私たち 何をしても\n許される年頃よ\n\n夢を見ているだけじゃ\n何も進展しない\n手を伸ばして 初めて\nそこに実のなる果実\n\n大人への階段を\n一気に二段飛ばして JUMP\nねえ 今すぐ 好きですと言わせてください\n\n女の子には スカート、ふわりふくらませ\n元気になれる時がある\n青春はいつも前を向いてる\n恋をしたから スカート、ふわりふくらませ\nあなたを追いかけて走る\n私たち何かしなきゃ\nもったいない年頃よ\n\n弾む息 落ちる汗 全力で\nこの道を信じて走ろう\n気持ちが風になれたら\nあなたにきっと伝わる\n結果は もう 恐れずに\n世界で一番好きなの\n\n女の子には スカート、ひらりひるがえし\n走りたくなる時がある\n何もかも捨てて 愛に向かうよ\n恋をする度 スカート、ひらり ひるがえし\nハートに火がついたように\n私たち 何をしても\n許される年頃よ\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=AP0zrQsgTbA",
+                "type": "video/youtube",
+                "lyrics": "いらない何も 捨ててしまおう\n君を探し彷徨う my soul\nStop the time, shout it out\nがまんできない 僕を全部あげよう\n\nせわしい街のカンジがいやだよ\n君はいないから\n夢に向かい交差点を渡る\n「途中の人」はいいね\n\nふたりでひとつになれちゃうことを\n気持ちいいと思ううちに\n少しのズレも許せない\nせこい人間になってたよ\n\n君がいないと生きられない\n熱い抱擁なしじゃ 意味がない\nねえ 2人でひとつでしょ yin and yan\n君が僕を支えてくれる\n君が僕を自由にしてくれる\n月の光がそうするように\n君の背中にすべり落ちよう\n(そして私はつぶされる)\n丁度 風のない海のように\n退屈な日々だった\n思えば花も色褪せていたよ\n君に会うまでは\n\n濡れる体 溶けてしまうほど\n昼も夜も離れずに\n過ごした時はホントなの\n君は今何おもう\n腹の底から君の名前を\n叫んでとびだした it's my soul\nカラのカラダがとぼとぼと\nはしゃぐ街を歩く\n\n欲しい気持ちが成長しすぎて\n愛することを忘れて\n万能の君の幻を 僕の中に作ってた\nいらない何も 捨ててしまおう\n君を探し彷徨う my soul\nStop the time, shout it out\nがまんできない 僕を全部あげよう\n\n幻をいつも愛してる\n何もわからずに\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=IIohAPcV0jo",
+                "type": "video/youtube",
+                "lyrics": "ぎらぎらした街をぬけ\nさっさと家に帰ろう\n思わぬ工事渋滞で\n赤いランプを眺めりゃ\n\nまた考えすぎのムシが\nじわりじわりと湧いてきて\n僕は僕自身に\n一日分の言い訳をはじめる\nたちの悪いくせだね\nこのまま車ごと\n君の家につっこもうかなんて\nことまで浮かんでくる yeah\n\n今日はいまいち\n思いやりに欠ける日だったとか\n人の気も知らないで\n「おまえは変わった」なんて\n簡単に言うやつの\nうさん臭い顔だとか\n空っぽの冷蔵庫開けて\nいろいろ思い出してると\n都会の暮らしは\nやけに喉が乾いてしまう\n\n今あいたい すぐあいたい\n砂漠の真ん中で\nねむりたい もうねむりたい\n全部凍らせたまま\n流れよう 流されよう\nこの波に揺らされ\nゼロがいい ゼロになろう\nもう一回\n\nどうすりゃいいの ヘンになりそう oh\nネオンで空が曇ってる夜は\n何をどこまで信じればいいか\n君が僕に教えてよ\n\n今あいたい すぐあいたい\n砂漠の真ん中で\nねむりたい もうねむりたい\n全部凍らせたまま\n流れよう 流されよう\nこの波に揺らされ\nゼロがいい ゼロになろう\nもう一回\n今あいたい すぐあいたい\n砂漠の真ん中で\nねむりたい もうねむりたい\n全部凍らせたまま\n流れよう 流されよう\nこの波に揺らされ\nゼロがいい ゼロになろう\nもうまっしろ whoa\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=dMnTojs6NXg",
+                "type": "video/youtube",
+                "lyrics": "Pinkの薔薇の束を 背中に隠しながら\n君のRoomを Knockしたよ\n甘い時間が流れ あとひと息でKissに\nたどり着く Chanceに電話の Bell\nどうせ Rival「あいつは No No No」\nDate の誘い 「二枚目禁止」\n燃える瞳 読みあったね\n君も同じ気持ちさ\nあとは何か きっかけさえ\nつかまえれば Make-Me-Love-Yeah\n\nついてない どうすりゃいいのさ Lady\n幸運を祈るよ 最後のLucky\n渚に車停めてギターでも弾くよ Love Song\nMood満点の空から雨\n助手席の君の顔 もう一息で Knock Down\nささやきの途中 邪魔なVoice\n野暮な Policeman 「君たち No No No」\nにらみつけてる「恋愛禁止」\n\n君が欲しい そして君も\nぼくの心 欲しいね\nあとは二人 ほんの少し\n勇気だせば Make-Me-Love-Yeah\n\nついてない どうすりゃいいのさ Lady\n幸運を祈るよ 最後のLucky\n\n君が欲しい そして君も\nぼくの心 欲しいね\nあとは二人 ほんの少し\n勇気だせば Make-Me-Love-Yeah\n\nついてない どうすりゃいいのさ Lady\n幸運を祈るよ 最後のLucky\nついてない どうすりゃいいのさ Lady\n幸運を祈るよ 最後のLucky\nLucky Chance・・・\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=OSY4ZF8oVRQ",
+                "type": "video/youtube",
+                "lyrics": "長いキスの途中で[Fu-Fu さりげなく]\n首飾りを外した [Fu-Fu 指さきで]\n友だちの領域(エリア)から\nはみだした君の青いハイヒール\n誰か Romantic 止めて Romantic\n胸が胸が苦しくなる\n惑う瞳に甘く溺れて\nHold me tight せつなさは止まらない\n壁のラジオ絞って[Fu-Fu しどけなく]\n遊びなのと聞いたね[Fu-Fu ささやいて]\n言葉では答えない\n抱いた手に力こめる Tonight\n誰か Romantic 止めて Romantic\n息が息が燃えるようさ\n同じ孤独を抱いて生きたね\n今夜一人では眠れない\n誰か Romantic 止めて Romantic\n胸が胸が苦しくなる\n走る涙に背中押されて\nHold me tight せつなさは止まらない\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=3Obh9kg6o_U",
+                "type": "video/youtube",
+                "lyrics": "そして僕らは いつもの笑顔と姿で\n埃にまみれた服を払った\nこの手を離せば 音さえたてない\n落ちて行くコインは\n二度と帰らない\n君と僕 並んで\n夜明けを追い抜いてみたい 自転車\nOn Your Mark いつも走りだせば\n流行の風邪にやられた\nOn Your Mark\n僕らがそれでも止めないのは\n夢の斜面見上げて\n行けそうな気がするから\n\nそして僕らは 心の小さな空き地で\n互いに振り落とした 言葉の夕立\n答えを出さない\nそれが答えのような\n針の消えた時計の\n文字を読むような\n君と僕 全てを\n認めてしまうにはまだ 若すぎる\nOn Your Mark いつも走りだせば\n流行の風邪にやられた\nOn Your Mark\n僕らがこれを無くせないのは\n夢の心臓めがけて\n僕らと呼び合うため\n\nそして僕らは\nOn Your Mark いつも走りだせば\n流行の風邪にやられた\nOn Your Mark\n僕らがそれでも止めないのは\n夢の斜面見上げて\n行けそうな気がするから\nそして僕らは\nOn Your Mark いつも走りだせば\n流行の風邪にやられた\nOn Your Mark\n僕らがこれを無くせないのは\n夢の心臓めがけて\n僕らと呼び合うため\n\nそして僕らは\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=gPcPseeICjs",
+                "type": "video/youtube",
+                "lyrics": "やわらかな風が吹く この場所で\n今二人ゆっくりと歩き出す\n\n幾千の出会い別れ全て\nこの地球で生まれて\nすれ違うだけの人もいたね\nわかり合えないままに\n慣れない街の届かぬ夢に 迷いそうな時にも\n暗闇を駆けぬける勇気を\nくれたのはあなたでした Fu…\n\n絶え間なく注ぐ愛の名を\n永遠と呼ぶ事ができたなら\n言葉では伝える事が どうしてもできなかった\n愛しさの意味を知る\n\nあなたを幸せにしたい… 胸に宿る未来図を\n悲しみの涙に濡らさぬ様 紡ぎ合い生きてる\n\n愛の始まりに心戸惑い 背を向けた夏の午後\n今思えば頼りなく揺れてた 若すぎた日々の罪\nそれでもどんなに離れていても\nあなたを感じてるよ\n今度戻ったら一緒に暮らそう\nやっぱり二人がいいね いつも\n\n孤独を背負う人々の群れにたたずんでいた\n心寄せる場所を探してた\n｢出会うのが遅すぎたね｣と\n泣き出した夜もある\n二人の遠まわりさえ 一片の人生\n傷つけたあなたに今告げよう\n誰よりも 愛してると…\n\n絶え間なく注ぐ愛の名を\n永遠と呼ぶ事ができたなら\n言葉では伝える事が どうしてもできなかった\n\n優しさの意味を知る\n恋した日の胸騒ぎを 何気ない週末を\n幼さ残るその声を 気の強いまなざしを\nあなたを彩る全てを抱きしめて\nゆっくりと歩き出す\n\nやわらかな風が吹く この場所で\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=IzqLX_KVK0Q",
+                "type": "video/youtube",
+                "lyrics": "いつか二人で行きたいね\n雪が積もる頃に\n生まれた街のあの白さを\nあなたにも見せたい\n\n無口な群衆 息は白く\n歴史の深い手に引かれて\n幼い日の帰り道\n凛と鳴る雪路を急ぐ\n街灯の下ひらひらと\n凍える頬に舞い散る雪\n目を閉じれば昔のまま\n\n厳しくも日々強く生きてる者よ\n\nいつか二人で行きたいね\n雪が積もる頃に\n生まれた街のあの白さを\nあなたにも見せたい\n逢いたいから 恋しくて\nあなたを想うほど Uh\n寒い夜は未だ胸の奥\n鐘の音が聞こえる\n\nのしかかる雲を見上げて\n時の速さの流れに問う\n誰もが抱く悲しみの\n終着駅は何処にあるのか\n陽だまり 暮れる坂道で\n若さの幻と出逢い\n「元気です」の一言に\n懐かしさよりも\n戸惑い立ち止まる\n\n過ぎ去りし 世に揺れる華\n遠くを見つめてた\n冷たい風にさらされた\n愛はあの日から動けないと\n逢いたいから 逢えない夜には\nあなたを想うほど Uh\n想い出には二人が歩いた\n足跡を残して\n\n降り続く白い雪は 心模様\nそっと 滔々と白い雪は\n無常なる人の世を\nすべて 許すように\n降り続いて行く\n\nいつか二人で行きたいね\n雪が積もる頃に\n生まれた街のあの白さを\nあなたにも見せたい\n\n逢いたいから 恋しくて\nあなたを想うほど Uh\n寒い夜は 未だ胸の奥\n鐘の音が聞こえる\n逢いたいから 逢えない夜には\nあなたを想うほど Uh\n想い出には 二人が歩いた\n足跡を残して\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=kMs3JIXeJ0Q",
+                "type": "video/youtube",
+                "lyrics": "ずっと伏せたままの写真立ての二人\n笑顔だけは 今も輝いている\n\nいつの日から細く長い道が始まる\n出発の日はなぜか風が強くて\n\nやさしさもわがままも 温もりも寂しさも\n思いやりも全てを全部あずけた\n\nどこまでも限りなく 降りつもる雪とあなたへの想い\n少しでも伝えたくて 届けたくて そばにいてほしくて\n凍える夜 待ち合わせも出来ないまま 明日を探してる\nいつだって想い出をつくる時には あなたと二人がいい\n\nWhen a man and woman\nStart to be tired to do the same thin'\nAgain and again\nLeavin' their dream, their love behind\nLookin' after all those long nights\nTo discover a new adventure\n\n行ったことがないね 雪と遊びたいね\n会いたくて 会えなくて あこがれている\n\n夜がやけに長くて 冬のせいかもしれない\nだけど春は明るく陽ざし浴びたい\n\n永遠に続く道 それはあなたへの想いがきっと\n降りつもる雪とともに 深く強く二人を支えていた\n\nTryin' to find what's the meanin' of love\nAlone at midnight\nI just wanna see ya, I just wanna feel ya\nJust wanna be there by your side\nUnder the same snow\nUnder the same moonlight\n\n前髪が伸びたね 同じくらいになった\n左利きも慣れたし 風邪も治った\n\n愛が夢を邪魔する 夢が愛を見つける\nやさしさが愛を探して あなたが私を選んでくれたから\n\nどこまでも限りなく 降りつもる雪とあなたへの想い\n少しでも伝えたくて 届けたくて そばにいてほしくて\n凍える夜 待ち合わせも出来ないまま 明日を探してる\nいつだって想い出をつくる時には あなたと二人がいい\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=aHIR33pOUv0",
+                "type": "video/youtube",
+                "lyrics": "世間知らずだった 少年時代から\n自分だけを信じてきたけど\n心ある人の支えの中で\n何とか生きてる 今の僕で\n弱音晒したり 愚痴をこぼしたり\n人の傷みを見てみないふりをして\n幸せ過ぎて大切なことが\n分かりづらくなった今だから\n歌う言葉さえも見つからぬまま\n時間に追われ途方に暮れる\n愛すべき人よ君も同じように\n苦しみに似た思いを抱いてるの\nSTAY\n何を犠牲にしても\n守るべきものがあるとして\n僕にとって今 君が\nそれに当たると思うんだよ\n夢追い人は旅路の果てで\nいったい何を手にするんだろう\n嘘や矛盾を両手に抱え\n｢それも人だよ｣と悟れるの\n愛すべき人よ君に会いたい\n例えばこれが恋とは違くても\nSTAY\n僕が落ちぶれたら\n迷わず古い荷物を捨て\n君は新しいドアを\n開けて進めばいいんだよ\n\nSTAY\n何を犠牲にしても\n手にしたいものがあるとして\nそれを僕と思うのなら\nもう君の好きなようにして\n自分を犠牲にしても いつでも\n守るべきものはただひとつ\n君なんだよ\nいつでも君なんだよ\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=RkF5_BpBQU4",
+                "type": "video/youtube",
+                "lyrics": "いつも君と待ち続けた季節は\n何も言わず通り過ぎた\n雨はこの街に降り注ぐ\n少しのリグレットと罪を包みこんで\n泣かないことを誓ったまま時は過ぎ\n痛む心に気が付かずに僕は一人になった\n\n\"記憶の中でずっと二人は生きて行ける\"\n君の声が今も胸に響くよ\nそれは愛が彷徨う影\n君は少し泣いた? あの時見えなかった\n\n自分の限界がどこまでかを知るために\n僕は生きてる訳じゃない\nだけど新しい扉を開け海に出れば\n\n波の彼方にちゃんと\"果て\"を感じられる僕は\nこの手伸ばして空に進み風を受けて\n\n生きて行こうどこかでまためぐるよ\n遠い昔からある場所\n夜の間でさえ季節は変わって行く\n\n雨はやがてあがっていた\n\n\"記憶の中でずっと二人は生きて行ける\"\n君の声が今も胸に響くよ\nそれは愛が彷徨う影\n君は少し泣いた? あの時見えなかった\n\nHello again a feeling heart\nHello again my old dear place\n\nHello again a feeling heart\nHello again my old dear place\n\nHello again a feeling heart\nHello again my old dear place\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=xdnDrHWmiic",
+                "type": "video/youtube",
+                "lyrics": "果てしないあの雲の彼方へ\n私をつれていって\nその手を離さないでね\n\n真冬の星座から 舞いおちた白い恋\n胸の奥に 降りつもる\n心に染みて 涙になる\n仲間とは違う\nサインで呼び合うたび強くなれる\n離れていても いつだってひとつだよね\n\nウー もっとちゃんと\nいつも つかまえていて\n電話がない夜は 強がってても\nホントはね I miss you\n果てしない 星の光のように\n胸いっぱいの愛で\n今あなたを包みたい\n天使がくれた 出逢いは\nあの空を 突きぬけて\n永遠に輝き続ける\n\n白いため息で\n曇った窓ににじむ\nイルミネイション\nうれしいほど\n明日が不安で 泣けるものね\n新しい手帳にも\nあなたのイニシャルが沢山ありますように\n次の約束が\nあるから生きていけるよ\n\nあぁ 雪が溶けて やがて春がくる頃\nあなたにとって 木洩れ日のような\nやすらぎに なってたい\n\n果てしない 星の生命のように\nくじけそうになっても\nずっと愛し続けるよ\n儚い 雪みたいに\nこの今のしあわせが\nいつか消えてしまわぬように\n\n愛してる\n抱いていて\n果てしない あの雲の彼方へ\n私をつれていって\nその手を 離さないでね\n天使がくれた出逢いは\n奇跡なんかじゃないよ\n神様 見つめてて\n生まれたての愛を\n永遠に大切にするから\nあなたの為に生きていきたい\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=-qaEthNwXKE",
+                "type": "video/youtube",
+                "lyrics": "Car Radio流れる\nせつなすぎるバラードが\n友達のライン こわしたの\nきらめく星座が\nふたりを無ロにさてく\nかさなりあった目の 甘い罠\n\n※JUST こころごと 止まらない もう\nあなたに ドラマ始まっている\nJIN JIN JIN 感じてる※\n\n彼女の存在(こと)なら\n初めから百も承知よ\nなのに今夜 何故? 素直なの\n走りだした愛に\n理性のバリアは効かない\nルームライトを消す 指がふるえ\n\n△JUST いとしくて 止まらない もう\nあなたに ビネツ奪われている\nFURA FURA FURA 乱れてる△\n\nJUST もう 止まらない\n今 感じてる もう 止まらない\n今 乱れてる\n\n都会(まち)のりんかくが\n葡萄色に変わるまでに\nあなたに本気を 感染(うつ)したい\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=QhOFg_3RV5Q",
+                "type": "video/youtube",
+                "lyrics": "I'm walking in the rain\n行くあてもなく 傷ついた体濡らし\n絡みつく 凍りのざわめき\n殺し続けて 彷徨う いつまでも\nUntil I can forget your love\n\n眠りは麻薬\n途方にくれた 心を静かに溶かす\n舞い上がる 愛を踊らせて\nふるえる身体を 記憶の薔薇につつむ\nI keep my love for you to myself\n\nEndless rain, fall on my heart 心の傷に\nLet me forget all of the hate, all of the sadness\n\nDay of joy, days of sadness slowly pass me by\nAs I try to hold you, you are vanishing before me\nYou're just an illusion\nWhen I'm awaken, my tears have dried\nIn the sand of sleep\nI'm a rose blooming in the desert\n\nIt's a dream, I'm in love with you\nまどろみ抱きしめて\n\nEndless rain, fall on my heart 心の傷に\nLet me forget all of the hate, all of the sadness\n\nI awake from my dream\nI can't find my way without you\n\nThe dream is over\n声にならない 言葉を繰り返しても\n高すぎる灰色の壁は\n過ぎ去った日の思いを夢に写す\nUntil I can forget your love\n\nEndless rain, fall on my heart 心の傷に\nLet me forget all of the hate, all of the sadness\n\nEndless rain, let me stay evermore in your heart\nLet my heart take in your tears take in your memories\n\nEndless rain, fall on my heart 心の傷に\nLet me forget all of the hate, all of the sadness\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=AKJcWHxayIM",
+                "type": "video/youtube",
+                "lyrics": "騒めきだけが 心を刺して\n聞こえない 胸の吐息\n時を忘れて 求め彷徨う\n高鳴る想い 濡らして\n\nRun away from reality\nI've been crying in the dream\n凍りついた時間に震えて\n歪んで見えない 記憶重ねる\n悲しみが 消えるまで\n\nYou say anything 傷つけ合う言葉でも\nSay anything 断ち切れない心に\nYou say anything Just tell me\nAll your sweet lies\nSay anything 演じきれない心に\n\nIf I can go back to there I've been\n夢の中にだけ生きて\n終わらない雨に濡れる\n流れる涙を白日夢に染めて\n\nYou say anything\nWhatever you like to say to me\nSay anything\nYou leave me out of my eyes\nYou say anything\nAll I can hear is voice from dream\nSay anything\nYou can dry my every tears\n\n灯りの消えたOn the stage 1人見つめて\n通り過ぎた日々に抱かれる\n壊してくれ 何もかも 飾った愛も\n時の砂に消えるまで\n\nYou say anything 傷つけ合う言葉でも\nSay anything 断ち切れない心に\nYou say anything Just tell me\nAll your sweet lies\nSay anything 演じきれない心に\n\nClose your eyes\nAnd I'll kill you in the rain\n綺麗に殺し合えば\n造花の薔薇に埋もれた\n詩人の涙は記憶に流されて\n\nTime may change my life\nBut my heart remains the same to you\nTime may change your heart\nMy love for you never change\n\nYou say anything 傷つけ合う言葉でも\nSay anything 断ち切れない心に\n\nYou say anything... Say anything\nNow you are gone away\nWhere can I go from here?\nSay anything... Say anything\n\n\"I believed\nIf time passes. everything\nTurns into beauty\nIf the rain rain stop, tears clean\nThe scars of memory away\nEverything stars wearing fresh colors\nEvery sound beging playing\nA heartfelt melody\nJealousy embelishes\nA page of the epic\nDesire is embracea in a dream\nBut my mind is still in chaos and...\"\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=Oj9bvmzTR2A",
+                "type": "video/youtube",
+                "lyrics": "I'm looking for you\nTrying to reach your roses\nCarried away by the time\n静寂の凶気に片目を潰されたまま\nYou've gone away from the stage\nLeaving no words\nThere's just fake tears left\n偽りの真珠で飾った\n薔薇の花束を探す\n\nI'm blind insane\nIn the red of silence\nNow I've lost your love\n幻覚の愛に飼われた操り人形\nGet me on my feet\nGet me back to myself\nPretend you love me\n指先まで真紅に染った\nオレを見つめて\n\nもう耐えきれない\n孤独の セレナーデ\n虚像の海に流して\n夢から覚めた 血塗れの天使を\n胸に抱いても I can not stop\n\nSilent jealousy\nDon't you leave me alone\n悲しみに乱れて\n戻れない愛を飾る\n繰り返す孤独の中に\nTell me true 何処に行けば\n苦しみを愛せる\nI still want your love\n愛を止めて\nくるい咲く記憶を消して\n\n\"I just wanted to stay with you\nI just wanted to feel your breath of grace\nI didn't know what to do\nI couldn't say anything\nWhen consciousness returned\nEverything had been washed away\nBy the tide of time, even you\nBut the scars of memory\nNever fade away\nI can't stop loving you\nStop my tears\nStop my loving\nKill my memories\"\n\nYou dyed my heart in blood\nNo way to kill my sadness\n立ち去る前に殺して\n叫気の愛に抱かれた瞳は\n何も見えない\n今も I miss you\nCan't live without you\n\nSilent jealousy 夢に堕ちて\n抱き締める 記憶を\nStay in yesterday 時を止めて\n繰り返す 孤独を消して\nTake me back to the memory\nTo the dream\n\nSilent jealousy\nDon't you leave me alone\n悲しみに乱れて\nKill me, love\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=MHmXom3LJpc",
+                "type": "video/youtube",
+                "lyrics": "I hear a knock on the door 激しくせまる\n失いかけた意識のなかで おまえがささやく\n追いつめられた心溶かす 鈍色の肖像\n切り刻まれた記憶を映しだす\n\n咲き乱れた hateful black heart 心にせまる\n研ぎ澄まされた transient feeling 人波の中\nヒステリックにざわめく風に 止まらない涙を\n胸に抱きしめ 孤独を色どる\n\nI've nothing to lose (love me till the end) except your heart\nI've nothing to lose (love me till the end) except your heart\n\n手首を流れる血をおまえの体に\n絡みつけると一瞬のうちに 更みがえる記憶に視界を\n閉ざされ笑いながら 逃げてゆくおまえの姿を\n見つめる傷ついたオレが立っている\nWeekend, weekend, weekend, weekend, I'm at my wits end\nWeekend, weekend, weekend I'm at my wits end, weekend\n\nI've nothing to lose (love me till the end) except your heart\nI've nothing to lose (love me till the end) except your heart (no way out)\n\nI hear a knock on the door 激しくせまる\n失いかけた意識のなかで おまえがささやく\n冷たい指先のばし 傷口に口づけ\n赤く染まった凶気を抱きしめる\n\n鏡を見つめながらふるえる体に\n流れはじめた澄き通る血を 青白いおまえの心に\n絡ませ幻覚に消えて行く最後の涙を\n拾い集めて血の海にまどろむ\nWeekend, weekend, weekend, weekend, I'm at my wits end\nWeekend, weekend, weekend I'm at my wits end, weekend\nI still love you, weekend\nBut I cannot carry on\n\n手首を流れる血をおまえの体に\n絡みつけると一瞬のうちに 更みがえる記憶に視界を\n閉ざされ笑いながら 逃げてゆくおまえの姿を\n見つめる傷ついたオレが立っている\nWeekend, weekend, weekend, weekend, I'm at my wits end\nWeekend, weekend, weekend I'm at my wits end\n\nWeekend, weekend, weekend, I'm at my wits end\nWeekend, weekend, weekend, I'm at my wits end\n\nWeekend, weekend, weekend, I'm at my wits end\nWeekend, weekend, weekend, I'm at my wits end\n\nWeekend, weekend, weekend, I'm at my wits end\nWeekend, weekend, weekend, I'm at my wits end\n\nWeekend, weekend, weekend, I'm at my wits end\nWeekend, weekend, weekend, I'm at my wits end, weekend\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=5I4dC9elhF4",
+                "type": "video/youtube",
+                "lyrics": "さめきった街に別れを告げ\n荒れくるう刺激に身をさらせ\nあいつの瞳は光り失せた\n燃えくるう心は操れない\n\n※乱れた愛に流され おまえは全てを失った\n身体貫く叫びで おまえの心壊してやる※\n\n錆付いた言葉投げ捨てて\n張り裂ける心を解き放て\n降りしきる雨に背を向けて\n息づく奴らに言葉はない\n\n埋もれた時に戸惑う おまえは悪夢をさまよう\n血の気震わすNoiseで おまえの心壊してやる\n\n△X 感じてみろ X 叫んでみろ X 全て脱ぎ捨てろ\nX 感じてみろ X 叫んでみろ X 心燃やせ△\n\nX You don't have to hesitate.\nGet yourself out.\nYou know You are the best!\nLet's get Crazy!\n\n(△くり返し)\n(※くり返し)\n(△くり返し×2)\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=w3EPSUIz_30",
+                "type": "video/youtube",
+                "lyrics": "長い間 待たせてごめん\nまた急に仕事が入った\nいつも一緒にいられなくて\n淋しい思いをさせたね\n\n逢えないとき 受話器からきこえる\n君の声がかすれてる\n久しぶりに逢った時の\n君の笑顔が胸をさらっていく\n\n気づいたの あなたがこんなに 胸の中にいること\n愛してる まさかねそんな事言えない\n\nあなたのその言葉だけを信じて\n今日まで待っていた私\n笑顔だけは 忘れないように\nあなたの側にいたいから\n\n笑ってるあなたの側では 素直になれるの\n愛してる でもまさかねそんな事言えない\n\n気づいたの あなたがこんなに 胸の中にいること\n愛してる まさかねそんな事言えない\n\n笑ってるあなたの側では 素直になれるの\n愛してる でもまさかねそんな事言えない\n\n気づいたの あなたがこんなに 胸の中にいること\n愛してる まさかねそんな事言えない\n\n笑ってるあなたの側では 素直になれるの\n愛してる でもまさかねそんな事言えない\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=HKn4X9tWAqA",
+                "type": "video/youtube",
+                "lyrics": "Ah!\nAh!\n\nBye-bye ありがとう\nさよなら 愛しい恋人よ\nあんたちょっといい女だったよ\nその分ズルい女だね\n\n今夜会えなかったね\n淋しかったよ 会いたかったよ\n僕のバースデイ 今夜バースデイ\n会いたかったよ\nWow 気持ちいいこともそう\n真珠もそう あんたのため\nAh 高級レストランもそう\n花束もそう あんたのため\n\nこの日だけは僕のためだよって言ったじゃない\nなぜ 来ない 来ない 来ない 来ない 来ない あんたは\n\nBye-bye ありがとう\nさよなら 愛しい恋人よ\nあんたちょっといい女だったよ\nだけどズルい女\nGood-bye ありがとう\n心から 愛しい恋人よ\nずっとこんな日が続けばと\n思うほど愛してたのに\n久しぶりの恋 本気の恋\n\n楽しかったよ\nWow 一日中想う 切なく思う\n楽しかったよ\n僕のせいか?\nなんか損した気分なのは\nでも want you, hold you, get you\nKiss you, miss you, need you\n僕のあんたへ\n\nBye-bye ありがとう\nさよなら 愛しい恋人よ\nあんたちょっといい女だったよ\nだけどズルい女\nGood-bye ありがとう\n心から 愛しい恋人よ\nずっとこんな日が続けばと\n思うほど愛してたのに\n\nOh, oh, yeah, oh, oh, oh, oh, oh\n\nBye-bye ありがとう\nさよなら 愛しい恋人よ\nあんた本当いい女だったよ\n最後もう一度抱きたいよ\n"
+            }
+        ]
+    },
+    {
+        "sources": [
+            {
+                "src": "https://www.youtube.com/watch?v=jqMVJRUSNM8",
+                "type": "video/youtube",
+                "lyrics": "これ以上長く 一緒に居ると\n私もダメになりそう\nあなたの夢が叶うなんて いつなの?\n\nまるで少年ね いつもキラキラ\nしたいことばかりしてる\nその瞳を好きになったあの日\n\n時間が過ぎたこと あなたわかってるの?\nAh 学生の気分で 居るのね\n\n何も知らない あなたの 寝顔を見ていると\n思い出と 涙が溢れてく\nこれで最後と 何度も 頭をよぎるけど\n白い歯の 笑顔を思い出す\n\nしょうがない 夢追い人\n\nそれでも今夜で本当に最後\n心に誓ったけれど\nそんな日に限ってやさしくするのね\n\nあなたわかるでしょ? 現実という\n大きな壁があるのを\n気づかないフリしてるだけでしょ?\n\n何度もあきらめた あなたと進むのを\nAh どうしても ふんぎりつかない\n\n何も知らない あなたの 洋服にアイロン\nしてる手に 涙が落ちてゆく\nいつかあなたのその夢 叶う時来るのかな\n2人して 祝福出来るかな\n\nしょうがない 夢追い人\n\n何も知らない あなたの 寝顔を見ていると\n思い出と 涙が溢れてく\n何も知らない あなたの 洋服にアイロン\nしてる手に 涙が落ちてゆく\nいつかあなたのその夢 叶う時来るのかな\n2人して 祝福出来るかな\n\nしょうがない 夢追い人\nそれなのに あなたが好き\n"
             }
         ]
     }
