@@ -1,0 +1,13 @@
+---
+layout: post
+title: "j-pop すべて曲"
+date: 2022-03-31 23:00:00 +0900
+category: j-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/j-pop/j-pop すべて曲.json"></video>
+</div>
+
+```
+```
