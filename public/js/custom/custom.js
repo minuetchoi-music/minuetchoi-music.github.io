@@ -89,6 +89,7 @@ $(document).ready(function () {
                     }
                 });
                 $('.highlighter-rouge').before('<div class="wrap-vertical">' + shuffle(strHtml).join('') + '</div>');
+                $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - ($(window).width() / 2) }, 400, function () {});
             },
             error: function (xhr, status, error) {
                 console.log("ERROR!!!");
