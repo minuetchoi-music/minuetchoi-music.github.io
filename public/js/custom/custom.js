@@ -35,12 +35,19 @@ $(document).ready(function () {
                 for (var i = 0; i < arr.length; i++) {
                     lyrics[arr[i].sources[0].src] = arr[i].sources[0].lyrics;
                 }
+                var fillCnt= 35;
+                var fillChar = '\n';
                 var previousSrc = '';
                 var currentSrc = '';
                 player.on('timeupdate', function () {
                     currentSrc = player.currentSrc();
                     if (previousSrc != currentSrc) {
-                        $('.highlighter-rouge').find('code').html(lyrics[currentSrc]);
+                        var lyricsChar = lyrics[currentSrc];
+                        var lyricsCnt = lyricsChar.split(fillChar).length - 1
+                        for (var i = lyricsCnt; i < fillCnt; i++) {
+                            lyricsChar = lyricsChar + fillChar;
+                        }
+                        $('.highlighter-rouge').find('code').html(lyricsChar);
                         previousSrc = currentSrc;
                     }
                 });
