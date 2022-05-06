@@ -1,0 +1,13 @@
+---
+layout: post
+title: "etc 全曲"
+date: 2022-04-30 23:00:00 +0900
+category: etc
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/etc/etc 全曲.json"></video>
+</div>
+
+```
+```
