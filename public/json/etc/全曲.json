@@ -2,43 +2,50 @@
     {
         "sources": [{
             "src": "https://www.youtube.com/watch?v=rT4FqOwn-rs",
-            "type": "video/youtube"
+            "type": "video/youtube",
+            "lyrics": ""
         }]
     },
     {
         "sources": [{
             "src": "https://www.youtube.com/watch?v=mLk61pfiHQ0",
-            "type": "video/youtube"
+            "type": "video/youtube",
+            "lyrics": ""
         }]
     },
     {
         "sources": [{
             "src": "https://www.youtube.com/watch?v=YZ_LrseoM30",
-            "type": "video/youtube"
+            "type": "video/youtube",
+            "lyrics": ""
         }]
     },
     {
         "sources": [{
             "src": "https://www.youtube.com/watch?v=OCZLKvByaI4",
-            "type": "video/youtube"
+            "type": "video/youtube",
+            "lyrics": ""
         }]
     },
     {
         "sources": [{
             "src": "https://www.youtube.com/watch?v=cmwqUXuJ860",
-            "type": "video/youtube"
+            "type": "video/youtube",
+            "lyrics": ""
         }]
     },
     {
         "sources": [{
             "src": "https://www.youtube.com/watch?v=WrZYT-duzus",
-            "type": "video/youtube"
+            "type": "video/youtube",
+            "lyrics": ""
         }]
     },
     {
         "sources": [{
             "src": "https://www.youtube.com/watch?v=3KA1Lec9QiU",
-            "type": "video/youtube"
+            "type": "video/youtube",
+            "lyrics": ""
         }]
     }
 ]
