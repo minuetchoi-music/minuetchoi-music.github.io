@@ -97,7 +97,9 @@ $(document).ready(function () {
                 });
                 $('.highlighter-rouge').before('<div class="wrap-vertical">' + shuffle(strHtml).join('') + '</div>');
                 setTimeout(function () {
-                    $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 20}, 400, function () {});
+                    $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 20}, 400, function () {
+                        $('html, body').animate({ scrollTop: $('.post-content').offset().top}, 2000);
+                    });
                 }, 3000);
             },
             error: function (xhr, status, error) {
