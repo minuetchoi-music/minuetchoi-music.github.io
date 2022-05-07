@@ -47,8 +47,16 @@ $(document).ready(function () {
                         for (var i = lyricsCnt; i < fillCnt; i++) {
                             lyricsChar = lyricsChar + fillChar;
                         }
-                        $('.highlighter-rouge').find('code').html(lyricsChar);
                         previousSrc = currentSrc;
+                        $('.highlighter-rouge').find('code').html(lyricsChar);
+                        $('.highlighter-rouge').find('pre').on('doubleTap dblclick', function (e) {
+                            e.preventDefault();
+                            if (player.muted()) {
+                                player.muted(false);
+                            } else {
+                                player.muted(true);
+                            }
+                        });
                     }
                 });
             },
