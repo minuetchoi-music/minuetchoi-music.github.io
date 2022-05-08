@@ -71,6 +71,7 @@ pre {
 	margin-bottom: 15px;
 	padding-bottom: 10px;
 	padding: 5px;
+	text-align: left;
 	margin: 0px;
 	line-height: 1.2;
 }
@@ -83,7 +84,7 @@ code {
 
 .container {
 	min-height: 100%;
-	/* display: flex; */
+	display: flex;
 	justify-content: space-between;
 	flex-flow: row nowrap;
 }

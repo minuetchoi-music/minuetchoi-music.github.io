@@ -7,9 +7,8 @@
 			{%- assign date_format = site.date_forma | default: "%Y/%m/%d" -%}
 			{{ page.date | date: date_format }}
 		</time>
+		<div class="post-content">
+			{{ content }}
+		</div>
 	</header>
-	</div>
-	<div class="post-content">
-		{{ content }}
-	</div>
 </article>
