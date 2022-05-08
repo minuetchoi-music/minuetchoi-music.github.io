@@ -14,76 +14,15 @@ $(document).ready(function () {
 
     if ($video.length > 0) {
 
-        $.ajax({
-            type: "GET",
-            url: $video.data('json'),
-            cache: false,
-            datatype: "JSON",
-            success: function (arr) {
-                var player = videojs('player', {
-                    autoplay: true,
-                    loop: true,
-                    muted: true,
-                    preload: true,
-                    controls: true
-                });
-                player.playlist(shuffle(arr));
-                player.playlist.autoadvance(0);
-                player.playlist.repeat(true);
-
-                var lyrics = {};
-                for (var i = 0; i < arr.length; i++) {
-                    lyrics[arr[i].sources[0].src] = arr[i].sources[0].lyrics;
-                }
-                var fillCnt= 35;
-                var fillChar = '\n';
-                var previousSrc = '';
-                var currentSrc = '';
-                player.on('timeupdate', function () {
-                    currentSrc = player.currentSrc();
-                    if (previousSrc != currentSrc) {
-                        var lyricsChar = lyrics[currentSrc];
-                        var lyricsCnt = lyricsChar.split(fillChar).length - 1
-                        for (var i = lyricsCnt; i < fillCnt; i++) {
-                            lyricsChar = lyricsChar + fillChar;
-                        }
-                        previousSrc = currentSrc;
-                        $('.highlighter-rouge').find('code').html(lyricsChar);
-                        $('.highlighter-rouge').find('pre').on('doubleTap dblclick', function (e) {
-                            e.preventDefault();
-                            if (player.muted()) {
-                                player.muted(false);
-                            } else {
-                                player.muted(true);
-                            }
-                        });
-                    }
-                });
-            },
-            error: function (xhr, status, error) {
-                console.log("ERROR!!!");
-            }
-        });
-    }
-    // --영상 end
-
-
-    // 북마크 strt
-    $('.bookmark').magnificPopup({
-        type: 'iframe',
-        iframe: {
-            markup: '<meta name="viewport" content="width=device-width; initial-scale=1.0, user-scalable=no">' +
-                '<style>.mfp-iframe-holder .mfp-content {max-width: 100%;height:100%}</style>' +
-                '<div class="mfp-iframe-scaler" >' +
-                '<div class="mfp-close"></div>' +
-                '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>' +
-                '</div></div>' +
-                '<script>closeNav()</script>'
+        var lyricsChar = '';
+        var lyricsCnt = 0;
+        var fillCnt= 35;
+        var fillChar = '\n';
+        for (var i = lyricsCnt; i < fillCnt; i++) {
+            lyricsChar = lyricsChar + fillChar;
         }
-    });
-    // --북마크 end
+        $('.highlighter-rouge').find('code').html(lyricsChar);
 
-    if ($('.video-container').length > 0) {
         var location = window.location.pathname.split('/')[1];
         $.ajax({
             type: "GET",
@@ -114,7 +53,75 @@ $(document).ready(function () {
                 console.log("ERROR!!!");
             }
         });
+
+        $.ajax({
+            type: "GET",
+            url: $video.data('json'),
+            cache: false,
+            datatype: "JSON",
+            success: function (arr) {
+                var player = videojs('player', {
+                    autoplay: true,
+                    loop: true,
+                    muted: true,
+                    preload: true,
+                    controls: true
+                });
+                player.playlist(shuffle(arr));
+                player.playlist.autoadvance(0);
+                player.playlist.repeat(true);
+
+                var lyrics = {};
+                for (var i = 0; i < arr.length; i++) {
+                    lyrics[arr[i].sources[0].src] = arr[i].sources[0].lyrics;
+                }
+
+                $('.highlighter-rouge').find('pre').on('doubleTap dblclick', function (e) {
+                    e.preventDefault();
+                    if (player.muted()) {
+                        player.muted(false);
+                    } else {
+                        player.muted(true);
+                    }
+                });
+
+                var previousSrc = '';
+                var currentSrc = '';
+                player.on('timeupdate', function () {
+                    currentSrc = player.currentSrc();
+                    if (previousSrc != currentSrc) {
+                        lyricsChar = lyrics[currentSrc];
+                        lyricsCnt = lyricsChar.split(fillChar).length - 1
+                        for (var i = lyricsCnt; i < fillCnt; i++) {
+                            lyricsChar = lyricsChar + fillChar;
+                        }
+                        previousSrc = currentSrc;
+                        $('.highlighter-rouge').find('code').html(lyricsChar);
+                    }
+                });
+            },
+            error: function (xhr, status, error) {
+                console.log("ERROR!!!");
+            }
+        });
     }
+    // --영상 end
+
+
+    // 북마크 strt
+    $('.bookmark').magnificPopup({
+        type: 'iframe',
+        iframe: {
+            markup: '<meta name="viewport" content="width=device-width; initial-scale=1.0, user-scalable=no">' +
+                '<style>.mfp-iframe-holder .mfp-content {max-width: 100%;height:100%}</style>' +
+                '<div class="mfp-iframe-scaler" >' +
+                '<div class="mfp-close"></div>' +
+                '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>' +
+                '</div></div>' +
+                '<script>closeNav()</script>'
+        }
+    });
+    // --북마크 end
 });
 
 // 영상 셔플
