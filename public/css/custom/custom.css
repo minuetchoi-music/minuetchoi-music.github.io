@@ -440,6 +440,10 @@ ul {
   word-break: break-all;
 }
 
+li {
+  color:rgb(37, 37, 37)
+}
+
 
 
 code.highlighter-rouge {
