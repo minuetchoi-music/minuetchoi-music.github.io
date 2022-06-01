@@ -447,7 +447,7 @@ li {
 
 
 code.highlighter-rouge {
-  position: relative;
+  /*position: relative;*/
   margin-bottom: 1em;
   background: #fde1b4;
   color: rgb(0, 0, 0);
