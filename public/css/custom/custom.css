@@ -449,7 +449,7 @@ li {
 code.highlighter-rouge {
   /*position: relative;*/
   margin-bottom: 1em;
-  background: #fde1b4;
+  background: #ffe6ff;
   color: rgb(0, 0, 0);
   font-family: Monaco, Consolas, "Lucida Console", monospace;
   font-size: 1.25em;
@@ -483,7 +483,7 @@ code.highlighter-rouge pre.highlight {
 	border-radius: 30px;
 	padding: 10px 15px 10px 15px;
 	margin-left: 60px;
-	font-size: 110%;
+	font-size: 105%;
 	color: rgb(37, 37, 37);
 }
 
