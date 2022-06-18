@@ -415,7 +415,7 @@ abbr[title].on:after {
 }
 
 .bottom-bar1 {
-  flex: 1;
+  flex: 0.4;
   text-align: center;
 }
 
@@ -424,10 +424,12 @@ abbr[title].on:after {
   text-align: center;
 }
 
+/*
 .bottom-bar3 {
   flex: 1;
   text-align: center;
 }
+*/
 
 ul {
   display: block;
