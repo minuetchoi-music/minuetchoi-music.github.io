@@ -25,37 +25,36 @@ $(document).ready(function () {
 
         var location = window.location.pathname.split('/')[1];
 
-        if (isMobile) {
-            $.ajax({
-                type: "GET",
-                url: '/category/#' + location,
-                cache: false,
-                datatype: "html",
-                success: function (data) {
-                    var strHtml = [];
-                    var tag;
-                    var title;
-                    $(data).find('.post-content').find('a[href*="/' + location + '"]').each(function (index, element) {
-                        tag = $(element).closest('li').html().replace(/<span.*>.*<\/span>/gi, '').replace(/\[.*\]/gi, '');
-                        title = $(element).closest('li').find('a').html();
-                        if ($.trim($('.post-title').html()) == $.trim(title)) {
-                            strHtml.push(tag.replace('post-link', 'wrap-vertical-link2'));
-                        } else {
-                            strHtml.push(tag.replace('post-link', 'wrap-vertical-link'));
-                        }
+        $.ajax({
+            type: "GET",
+            url: '/category/#' + location,
+            cache: false,
+            datatype: "html",
+            success: function (data) {
+                var strHtml = [];
+                var tag;
+                var title;
+                $(data).find('.post-content').find('a[href*="/' + location + '"]').each(function (index, element) {
+                    tag = $(element).closest('li').html().replace(/<span.*>.*<\/span>/gi, '').replace(/\[.*\]/gi, '');
+                    title = $(element).closest('li').find('a').html();
+                    if ($.trim($('.post-title').html()) == $.trim(title)) {
+                        strHtml.push(tag.replace('post-link', 'wrap-vertical-link2'));
+                    } else {
+                        strHtml.push(tag.replace('post-link', 'wrap-vertical-link'));
+                    }
+                });
+                var width = $('.video-container').width();
+                $('.highlighter-rouge').before('<div class="wrap-vertical" style="width: '+ width + 'px;">' + shuffle(strHtml).join('') + '</div>');
+                setTimeout(function () {
+                    $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 20}, 400, function () {
+                        $('html, body').animate({ scrollTop: $('.post-content').offset().top}, 2000);
                     });
-                    $('.highlighter-rouge').before('<div class="wrap-vertical">' + shuffle(strHtml).join('') + '</div>');
-                    setTimeout(function () {
-                        $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 20}, 400, function () {
-                            $('html, body').animate({ scrollTop: $('.post-content').offset().top}, 2000);
-                        });
-                    }, 3000);
-                },
-                error: function (xhr, status, error) {
-                    console.log("ERROR!!!");
-                }
-            });
-        }
+                }, 3000);
+            },
+            error: function (xhr, status, error) {
+                console.log("ERROR!!!");
+            }
+        });
 
         $.ajax({
             type: "GET",
