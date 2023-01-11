@@ -140,6 +140,16 @@ table tr td :last-child {
   cursor: pointer;
 }
 
+#menuSlid {
+  color: #eee;
+  position: fixed;
+  top: 40%;
+  right: 0;
+  z-index: 1;
+  border: none;
+  cursor: pointer;
+}
+
 .fa-align-left {
   padding: 5px 7px;
   background: #333;

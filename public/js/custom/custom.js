@@ -152,3 +152,15 @@ function openNav() {
 function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
 }
+// 북마크
+function openMenuNav() {
+    console.log(document.getElementById("sidebar").style.width);
+    if(document.getElementById("sidebar").style.display == 'none') { 
+        document.getElementById("sidebar").style.display = 'block';
+    } else {
+        document.getElementById("sidebar").style.display = 'none';
+    }
+}
+function closeMenuNav() {
+    document.getElementById("sidebar").style.display = 'none';
+}
