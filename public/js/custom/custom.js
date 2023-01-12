@@ -44,7 +44,7 @@ $(document).ready(function () {
                     }
                 });
                 var width = $('.video-container').width();
-                $('.highlighter-rouge').before('<div class="wrap-vertical" style="width: '+ width + 'px;">' + shuffle(strHtml).join('') + '</div>');
+                $('.highlighter-rouge').before('<div class="wrap-vertical" id="musicList" style="width: '+ width + 'px;">' + shuffle(strHtml).join('') + '</div>');
                 setTimeout(function () {
                     $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 20}, 400, function () {
                         $('html, body').animate({ scrollTop: $('.post-content').offset().top}, 2000);
@@ -160,6 +160,34 @@ function openMenuNav() {
     } else {
         document.getElementById("sidebar").style.display = 'none';
     }
+    var location = window.location.pathname.split('/')[1];
+
+    $.ajax({
+        type: "GET",
+        url: '/category/#' + location,
+        cache: false,
+        datatype: "html",
+        success: function (data) {
+            var strHtml = [];
+            var tag;
+            var title;
+            $(data).find('.post-content').find('a[href*="/' + location + '"]').each(function (index, element) {
+                tag = $(element).closest('li').html().replace(/<span.*>.*<\/span>/gi, '').replace(/\[.*\]/gi, '');
+                title = $(element).closest('li').find('a').html();
+                if ($.trim($('.post-title').html()) == $.trim(title)) {
+                    strHtml.push(tag.replace('post-link', 'wrap-vertical-link2'));
+                } else {
+                    strHtml.push(tag.replace('post-link', 'wrap-vertical-link'));
+                }
+            });
+            var width = $('.video-container').width();
+            $('#musicList').remove();
+            $('.highlighter-rouge').before('<div class="wrap-vertical" id="musicList" style="width: '+ width + 'px;">' + shuffle(strHtml).join('') + '</div>');
+        },
+        error: function (xhr, status, error) {
+            console.log("ERROR!!!");
+        }
+    });
 }
 function closeMenuNav() {
     document.getElementById("sidebar").style.display = 'none';
