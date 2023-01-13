@@ -22,7 +22,8 @@ $(document).ready(function () {
             lyricsChar = lyricsChar + fillChar;
         }
         $('.highlighter-rouge').find('code').html(lyricsChar);
-
+        openMenuNav();
+        /*
         var location = window.location.pathname.split('/')[1];
 
         $.ajax({
@@ -55,6 +56,7 @@ $(document).ready(function () {
                 console.log("ERROR!!!");
             }
         });
+        */
 
         $.ajax({
             type: "GET",
@@ -154,11 +156,13 @@ function closeNav() {
 }
 // 북마크
 function openMenuNav() {
-    console.log(document.getElementById("sidebar").style.width);
+    var addWidth;
     if(document.getElementById("sidebar").style.display == 'none') { 
         document.getElementById("sidebar").style.display = 'block';
+        addWidth = 196;
     } else {
         document.getElementById("sidebar").style.display = 'none';
+        addWidth = 0;
     }
     var location = window.location.pathname.split('/')[1];
 
@@ -180,9 +184,11 @@ function openMenuNav() {
                     strHtml.push(tag.replace('post-link', 'wrap-vertical-link'));
                 }
             });
-            var width = $('.video-container').width();
+            var width = $('.video-container').width() - addWidth;
+            console.log($( '.wrap-vertical-link2' ).offset());
             $('#musicList').remove();
             $('.highlighter-rouge').before('<div class="wrap-vertical" id="musicList" style="width: '+ width + 'px;">' + shuffle(strHtml).join('') + '</div>');
+            $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 30 - addWidth}, 400, function () {});
         },
         error: function (xhr, status, error) {
             console.log("ERROR!!!");
