@@ -185,10 +185,9 @@ function openMenuNav() {
                 }
             });
             var width = $('.video-container').width() - addWidth;
-            console.log($( '.wrap-vertical-link2' ).offset());
             $('#musicList').remove();
-            $('.post_title').remove();
-            $('.post_date').remove();
+            $('.post-title').remove();
+            $('.post-date').remove();
             $('.highlighter-rouge').before('<div class="wrap-vertical" id="musicList" style="width: '+ width + 'px;">' + shuffle(strHtml).join('') + '</div>');
             $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 30 - addWidth}, 400, function () {});
         },
