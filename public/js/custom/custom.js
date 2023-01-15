@@ -186,8 +186,8 @@ function openMenuNav() {
             });
             var width = $('.video-container').width() - addWidth;
             $('#musicList').remove();
-            $('.post-title').remove();
-            $('.post-date').remove();
+            $('.post-title').hide();
+            $('.post-date').hide();
             $('.highlighter-rouge').before('<div class="wrap-vertical" id="musicList" style="width: '+ width + 'px;">' + shuffle(strHtml).join('') + '</div>');
             $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 30 - addWidth}, 400, function () {});
         },
