@@ -290,7 +290,7 @@ article.home h4 a:hover {
 }
 
 header.post-header {
-	padding: 20px 0px 10px 0px;
+	/* padding: 20px 0px 10px 0px; */
 	margin-bottom: 10px;
 	/* border-bottom: 1px solid #ccc; */
 	text-align: center;
