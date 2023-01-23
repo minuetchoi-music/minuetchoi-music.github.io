@@ -1,0 +1,13 @@
+---
+layout: post
+title: "이치현과 벗님들 - 집시여인"
+date: 2021-07-07 23:00:00 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/이치현과 벗님들 - 집시여인.json"></video>
+</div>
+
+```
+```
