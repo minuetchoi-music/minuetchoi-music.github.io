@@ -157,7 +157,6 @@ function closeNav() {
 // 북마크
 function openMenuNav() {
     var addWidth;
-    console.log(document.getElementById("sidebar").style.display);
     if(document.getElementById("sidebar").style.display == 'none') { 
         document.getElementById("sidebar").style.display = '';
         if ($('.container').width() > 576) {
