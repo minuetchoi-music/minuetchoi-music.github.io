@@ -1,0 +1,13 @@
+---
+layout: post
+title: "이주원 - 아껴둔 사랑을 위해"
+date: 2021-07-17 23:00:00 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/이주원 - 아껴둔 사랑을 위해.json"></video>
+</div>
+
+```
+```

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "김완선 - 삐에로는 우릴보고 웃지"
+date: 2021-07-15 23:00:00 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/김완선 - 삐에로는 우릴보고 웃지.json"></video>
+</div>
+
+```
+```
