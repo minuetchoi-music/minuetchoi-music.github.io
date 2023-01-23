@@ -162,7 +162,7 @@ function openMenuNav() {
         if ($('.container').width() > 576) {
             addWidth = 196;
         } else {
-            addWidth = -196;
+            addWidth = 0;
         }
     } else {
         document.getElementById("sidebar").style.display = 'none';
@@ -193,9 +193,7 @@ function openMenuNav() {
             $('.post-title').hide();
             $('.post-date').hide();
             $('.highlighter-rouge').before('<div class="wrap-vertical" id="musicList" style="width: '+ width + 'px;">' + shuffle(strHtml).join('') + '</div>');
-            setTimeout(function () {
-                $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 30 - addWidth}, 400, function () {});
-            }, 500);
+            $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 30 - addWidth}, 400, function () {});
         },
         error: function (xhr, status, error) {
             console.log("ERROR!!!");
