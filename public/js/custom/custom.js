@@ -157,14 +157,19 @@ function closeNav() {
 // 북마크
 function openMenuNav() {
     var addWidth;
+    console.log(document.getElementById("sidebar").style.display);
     if(document.getElementById("sidebar").style.display == 'none') { 
         document.getElementById("sidebar").style.display = '';
-        if ($('#sidebar').width() > 576) {
+        alert(111111111111111111111111111);
+        console.log(1);
+        console.log($('.sidebar').hasClass('display'));
+        console.log(2);
+        if ($('.container').width() > 576) {
             addWidth = 196;
         } else {
-            addWidth = 0;
+            alert(2);
+            addWidth = -196;
         }
-        
     } else {
         document.getElementById("sidebar").style.display = 'none';
         addWidth = 0;
@@ -195,8 +200,6 @@ function openMenuNav() {
             $('.post-date').hide();
             $('.highlighter-rouge').before('<div class="wrap-vertical" id="musicList" style="width: '+ width + 'px;">' + shuffle(strHtml).join('') + '</div>');
             setTimeout(function () {
-                console.log(addWidth);
-                console.log($('.video-container').width());
                 $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 30 - addWidth}, 400, function () {});
             }, 500);
         },
