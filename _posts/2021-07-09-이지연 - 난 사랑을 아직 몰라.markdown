@@ -1,0 +1,13 @@
+---
+layout: post
+title: "이지연 - 난 사랑을 아직 몰라"
+date: 2021-07-09 23:00:00 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/이지연 - 난 사랑을 아직 몰라.json"></video>
+</div>
+
+```
+```
