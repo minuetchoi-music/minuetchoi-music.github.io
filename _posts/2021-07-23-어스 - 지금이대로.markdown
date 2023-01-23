@@ -1,0 +1,13 @@
+---
+layout: post
+title: "어스 - 지금이대로"
+date: 2021-07-23 23:00:00 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/어스 - 지금이대로.json"></video>
+</div>
+
+```
+```
