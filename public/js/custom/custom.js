@@ -160,14 +160,9 @@ function openMenuNav() {
     console.log(document.getElementById("sidebar").style.display);
     if(document.getElementById("sidebar").style.display == 'none') { 
         document.getElementById("sidebar").style.display = '';
-        alert(111111111111111111111111111);
-        console.log(1);
-        console.log($('.sidebar').hasClass('display'));
-        console.log(2);
         if ($('.container').width() > 576) {
             addWidth = 196;
         } else {
-            alert(2);
             addWidth = -196;
         }
     } else {
