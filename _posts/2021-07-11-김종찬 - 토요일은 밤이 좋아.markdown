@@ -1,0 +1,13 @@
+---
+layout: post
+title: "김종찬 - 토요일은 밤이 좋아"
+date: 2021-07-11 23:00:00 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/김종찬 - 토요일은 밤이 좋아.json"></video>
+</div>
+
+```
+```
