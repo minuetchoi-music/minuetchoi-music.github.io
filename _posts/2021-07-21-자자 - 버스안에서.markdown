@@ -1,0 +1,13 @@
+---
+layout: post
+title: "자자 - 버스안에서"
+date: 2021-07-21 23:00:00 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/자자 - 버스안에서.json"></video>
+</div>
+
+```
+```
