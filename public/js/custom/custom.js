@@ -158,8 +158,13 @@ function closeNav() {
 function openMenuNav() {
     var addWidth;
     if(document.getElementById("sidebar").style.display == 'none') { 
-        document.getElementById("sidebar").style.display = 'block';
-        addWidth = 196;
+        document.getElementById("sidebar").style.display = '';
+        if ($('#sidebar').width() > 576) {
+            addWidth = 196;
+        } else {
+            addWidth = 0;
+        }
+        
     } else {
         document.getElementById("sidebar").style.display = 'none';
         addWidth = 0;
@@ -189,7 +194,11 @@ function openMenuNav() {
             $('.post-title').hide();
             $('.post-date').hide();
             $('.highlighter-rouge').before('<div class="wrap-vertical" id="musicList" style="width: '+ width + 'px;">' + shuffle(strHtml).join('') + '</div>');
-            $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 30 - addWidth}, 400, function () {});
+            setTimeout(function () {
+                console.log(addWidth);
+                console.log($('.video-container').width());
+                $('.wrap-vertical').animate({ scrollLeft: $( '.wrap-vertical-link2' ).offset().left - 30 - addWidth}, 400, function () {});
+            }, 500);
         },
         error: function (xhr, status, error) {
             console.log("ERROR!!!");
