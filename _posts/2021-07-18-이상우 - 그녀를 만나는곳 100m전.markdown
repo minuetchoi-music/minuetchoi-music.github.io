@@ -1,0 +1,13 @@
+---
+layout: post
+title: "이상우 - 그녀를 만나는곳 100m전"
+date: 2021-07-18 23:50:04 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/이상우 - 그녀를 만나는곳 100m전.json"></video>
+</div>
+
+```
+```
