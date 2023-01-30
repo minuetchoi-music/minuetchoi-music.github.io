@@ -1,0 +1,13 @@
+---
+layout: post
+title: "김현식 - 내사랑 내곁에"
+date: 2021-07-18 23:50:09 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/김현식 - 내사랑 내곁에.json"></video>
+</div>
+
+```
+```
