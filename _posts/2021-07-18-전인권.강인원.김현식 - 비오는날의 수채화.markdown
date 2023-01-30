@@ -1,0 +1,13 @@
+---
+layout: post
+title: "전인권.강인원.김현식 - 비오는날의 수채화"
+date: 2021-07-18 23:50:05 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/전인권.강인원.김현식 - 비오는날의 수채화.json"></video>
+</div>
+
+```
+```

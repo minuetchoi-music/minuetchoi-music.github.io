@@ -1,0 +1,13 @@
+---
+layout: post
+title: "조정현 - 그 아픔까지 사랑한거야"
+date: 2021-07-18 23:50:01 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/조정현 - 그 아픔까지 사랑한거야.json"></video>
+</div>
+
+```
+```

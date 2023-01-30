@@ -1,0 +1,13 @@
+---
+layout: post
+title: "햇빛촌 - 유리창엔 비"
+date: 2021-07-18 23:50:07 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/햇빛촌 - 유리창엔 비.json"></video>
+</div>
+
+```
+```
