@@ -1,0 +1,13 @@
+---
+layout: post
+title: "엠씨몽 - 죽을만큼 아파서"
+date: 2021-08-29 23:00:00 +0900
+category: k-pop
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/k-pop/엠씨몽 - 죽을만큼 아파서.json"></video>
+</div>
+
+```
+```
